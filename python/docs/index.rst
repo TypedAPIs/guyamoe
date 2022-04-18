@@ -7,4 +7,5 @@ View **TypeScript** API documentation for this package `here <https://apitypes.g
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   endpoints/get_all_series

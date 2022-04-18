@@ -12,7 +12,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath(os.path.join(__file__, "..", "..", "src")))
 
 
 # -- Project information -----------------------------------------------------
@@ -31,8 +31,12 @@ release = "1.0"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc'
+    'sphinx.ext.autodoc',
+    'sphinx.ext.intersphinx'
 ]
+
+intersphinx_mapping = {'python': ('https://docs.python.org/3',
+                                  (None, 'python-inv.txt'))}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
