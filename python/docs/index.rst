@@ -1,9 +1,9 @@
-website-name API Types
+guyamoe API Types
 ----------------------
 
-This package contains the **Python** types for the ``website-name`` API.
+This package contains the **Python** types for the ``guyamoe`` API.
 
-View **TypeScript** API documentation for this package `here <https://apitypes.github.io/website-name/js/index.html>`_.
+View **TypeScript** API documentation for this package `here <https://apitypes.github.io/guyamoe/js/index.html>`_.
 
 .. toctree::
    :maxdepth: 2

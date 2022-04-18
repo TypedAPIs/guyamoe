@@ -1,7 +1,7 @@
 {
-  "name": "@api-types/example-site",
+  "name": "@api-types/guyamoe",
   "version": "1.0.0",
-  "description": "Types for the api at example.com",
+  "description": "Types for the api at guya.moe",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
