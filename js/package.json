@@ -1,0 +1,24 @@
+{
+  "name": "@api-types/example-site",
+  "version": "1.0.0",
+  "description": "Types for the api at example.com",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TypedAPIs/template.git"
+  },
+  "author": "PythonCoderAS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TypedAPIs/template/issues"
+  },
+  "homepage": "https://github.com/TypedAPIs/template#readme",
+  "devDependencies": {
+    "typedoc": "^0.22.15",
+    "typescript": "^4.6.3"
+  }
+}
