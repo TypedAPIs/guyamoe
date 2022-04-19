@@ -14,7 +14,9 @@ jobs:
       - name: Install python
         uses: actions/setup-python@v2
       - name: Install dependencies
-        run: pip install '.[docs]'
+        run: |
+          cd python
+          pip install '.[docs]'
       - name: Build docs
         run: |
           cd python/docs
