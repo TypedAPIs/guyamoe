@@ -4,6 +4,8 @@ from typing_extensions import TypedDict
 
 class SeriesSummary(TypedDict):
     """
+    SeriesSummary(data) -> SeriesSummary
+    SeriesSummary(**attrs) -> SeriesSummary
     A series dictionary that contains a subset of the attributes found on a normal :class:`.Series`.
     This is returned on the API endpoint for all series.
     """
@@ -36,7 +38,7 @@ class SeriesSummary(TypedDict):
         the one obtained from the individual series endpoint.
     """
 
-    last_updated: int
+    last_updated: float
     """The Unix timestamp of when the series was last updated."""
 
 AllSeries = Dict[str, SeriesSummary]
