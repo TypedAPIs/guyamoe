@@ -4,8 +4,8 @@ from typing_extensions import TypedDict
 
 class Chapter(TypedDict):
     """
-    Chapter(data) -> Chapter
-    Chapter(**attrs) -> Chapter
+    Chapter(data: Dict[str, Any]) -> Chapter
+    Chapter(**attrs: Any) -> Chapter
     A chapter of a series."""
     volume: str
     """The volume number for the chapter."""
@@ -36,8 +36,8 @@ class Chapter(TypedDict):
 
 class Series(TypedDict):
     """
-    Series(data) -> Series
-    Series(**attrs) -> Series
+    Series(data: Dict[str, Any]) -> Series
+    Series(**attrs: Any) -> Series
     A full series dictionary containing all the information about a series and it's chapters."""
 
     slug: str

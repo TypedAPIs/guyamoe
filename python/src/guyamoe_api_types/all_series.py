@@ -4,8 +4,8 @@ from typing_extensions import TypedDict
 
 class SeriesSummary(TypedDict):
     """
-    SeriesSummary(data) -> SeriesSummary
-    SeriesSummary(**attrs) -> SeriesSummary
+    SeriesSummary(data: Dict[str, Any]) -> SeriesSummary
+    SeriesSummary(**attrs: Any) -> SeriesSummary
     A series dictionary that contains a subset of the attributes found on a normal :class:`.Series`.
     This is returned on the API endpoint for all series.
     """

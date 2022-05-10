@@ -10,3 +10,4 @@ View **TypeScript** API documentation for this package `here <https://typedapis.
 
    endpoints/get_all_series
    endpoints/series
+   endpoints/series_page_data

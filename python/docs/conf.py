@@ -36,7 +36,7 @@ extensions = [
 ]
 
 intersphinx_mapping = {'python': ('https://docs.python.org/3',
-                                  (None, 'python-inv.txt'))}
+                                  (None, ))}
 
 autodoc_docstring_signature = True
 
