@@ -22,12 +22,7 @@ class SeriesSummary(TypedDict):
     """The slug of the series."""
 
     cover: str
-    """A **relative url** to the cover image of the series. The URL is always relative to the root of the site.
-    
-    For example, if a given URL is ``/media/manga/Kaguya-Wants-To-Be-Confessed-To/volume_covers/25/18665.jpg``, 
-    and the site root is ``https://guya.moe``, then the cover image URL will be 
-    ``https://guya.moe/media/manga/Kaguya-Wants-To-Be-Confessed-To/volume_covers/25/18665.jpg``.
-    """
+    """A :ref:`relative url` to the cover image of the series."""
 
     groups: Dict[str, str]
     """A dictionary of group IDs and their respective names.

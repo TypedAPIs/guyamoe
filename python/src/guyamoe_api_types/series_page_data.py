@@ -25,12 +25,7 @@ class SeriesPageData(TypedDict):
     """The slug of the series."""
 
     cover_vol_url: str
-    """A **relative url** to the cover image of the series. The URL is always relative to the root of the site.
-
-    For example, if a given URL is ``/media/manga/Kaguya-Wants-To-Be-Confessed-To/volume_covers/25/18665.jpg``, 
-    and the site root is ``https://guya.moe``, then the cover image URL will be 
-    ``https://guya.moe/media/manga/Kaguya-Wants-To-Be-Confessed-To/volume_covers/25/18665.jpg``.
-    """
+    """A :ref:`relative url` to the cover image of the series."""
 
     cover_vol_url_webp: str
     """An URL similar to :attr:`.cover_vol_url`, but the file is a ``.webp`` file."""
@@ -125,8 +120,7 @@ class SeriesPageData(TypedDict):
     """The URL to the series page on the website."""
 
     relative_url: str
-    """The relative path to the series page on the website. The path can be used in conjunction with the root domain to
-    construct the full URL located at :attr:`.canonical_url`."""
+    """The :ref:`relative url` to the series page on the website."""
 
     available_features: List[str]
     """A list of features that are available for the series. This list is static for all responses and currently 
@@ -144,8 +138,8 @@ class SeriesPageData(TypedDict):
     """
 
     reader_modifier: str
-    """The part of the :attr:`.relatve_url` that does not contain the slug. The modifier can be used in conjunction with
-    the series slug to construct the relative url to the series page."""
+    """The part of the :attr:`.relative_url` that does not contain the slug. The modifier can be used in conjunction 
+    with the series slug to construct the relative url to the series page."""
 
     embed_image: str
     """A link to the image that should be shown for Facebook/Twitter/other social media embeds."""

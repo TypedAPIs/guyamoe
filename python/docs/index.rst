@@ -6,12 +6,15 @@ This package contains the **Python** types for the ``guyamoe`` API.
 View **TypeScript** API documentation for this package `here <https://typedapis.github.io/guyamoe/js/index.html>`_.
 
 .. toctree::
+   :glob:
+   :caption: Endpoints
    :maxdepth: 2
 
-   endpoints/get_all_series
-   endpoints/get_all_groups
-   endpoints/series
-   endpoints/series_page_data
-   endpoints/series_groups
+   endpoints/*
 
+.. toctree::
+   :caption: Other
+   :maxdepth: 2
+
+   glossary
    other-endpoints
