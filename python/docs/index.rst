@@ -9,6 +9,9 @@ View **TypeScript** API documentation for this package `here <https://typedapis.
    :maxdepth: 2
 
    endpoints/get_all_series
+   endpoints/get_all_groups
    endpoints/series
    endpoints/series_page_data
    endpoints/series_groups
+
+   other-endpoints
