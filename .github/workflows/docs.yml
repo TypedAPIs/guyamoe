@@ -77,9 +77,9 @@ jobs:
       - name: Debug step
         run: ls -Rl .
       - name: Extract Python docs
-        run: tar -xzf docs/py/docs.tar.gz docs
+        run: tar -xzf docs/py/docs.tar.gz -C docs
       - name: Extract JavaScript docs
-        run: tar -xzf docs/js/docs.tar.gz docs/js
+        run: tar -xzf docs/js/docs.tar.gz -C docs/js
       - name: Deploy docs
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
