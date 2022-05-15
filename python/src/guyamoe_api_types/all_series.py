@@ -22,11 +22,11 @@ class SeriesSummary(TypedDict):
     """The slug of the series."""
 
     cover: str
-    """A :ref:`relative url` to the cover image of the series."""
+    """A :ref:`relative url` to the primary cover image of the series."""
 
     groups: Dict[str, str]
     """A dictionary of group IDs and their respective names.
-    
+
     .. note::
         The groups dictionary is the **same** dictionary for all series when obtained
         via the ``/get_all_series`` endpoint. This dictionary may be different from
