@@ -67,14 +67,14 @@ jobs:
       - name: Get Python docs
         uses: actions/download-artifact@v3
         with:
-          name: py-docs
+          name: py-docs.tar.gz
           path: docs
       - name: Extract Python docs
         run: tar -xzf docs/python-docs.tar.gz docs
       - name: Get JavaScript docs
         uses: actions/download-artifact@v3
         with:
-          name: js-docs
+          name: js-docs.tar.gz
           path: docs
       - name: Extract JavaScript docs
         run: tar -xzf docs/js-docs.tar.gz docs/js
