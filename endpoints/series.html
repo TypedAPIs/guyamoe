@@ -226,7 +226,7 @@ and the page filename, by filling the template:
 <code class="docutils literal notranslate"><span class="pre">{baseUrl}/media/manga/{slug}/chapters/{folder}/{groupID}/{pageName}</span></code></p>
 <p>For example, if my base URL is <code class="docutils literal notranslate"><span class="pre">https://guya.moe</span></code>, my slug is <code class="docutils literal notranslate"><span class="pre">Kaguya-Wants-To-Be-Confessed-To</span></code>,
 my folder is <code class="docutils literal notranslate"><span class="pre">0259_0ixv0umx</span></code>, my group ID is <code class="docutils literal notranslate"><span class="pre">7</span></code>, and the page name is <code class="docutils literal notranslate"><span class="pre">01.png?v3</span></code>,
-I would point a request to 
+I would point a request to
 <code class="docutils literal notranslate"><span class="pre">https://guya.moe/media/manga/Kaguya-Wants-To-Be-Confessed-To/chapters/0259_0ixv0umx/7/01.png?v3</span></code>.</p>
 </dd></dl>
 <dl class="py attribute">
@@ -281,7 +281,7 @@ and the value is the UNIX timestamp of the release time.</p>
 <dl class="py attribute">
 <dt class="sig sig-object py" id="guyamoe_api_types.series.Series.groups">
 <span class="sig-name descname"><span class="pre">groups</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></em><a class="headerlink" href="#guyamoe_api_types.series.Series.groups" title="Permalink to this definition">#</a></dt>
-<dd><p>A dictionary of group IDs and their respective names.</p>
+<dd><p>A dictionary of group IDs and their respective names. Only contains groups that have uploaded to the series.</p>
 </dd></dl>
 <dl class="py attribute">
 <dt class="sig sig-object py" id="guyamoe_api_types.series.Series.next_release_html">
@@ -291,7 +291,7 @@ and the value is the UNIX timestamp of the release time.</p>
 <dl class="py attribute">
 <dt class="sig sig-object py" id="guyamoe_api_types.series.Series.next_release_page">
 <span class="sig-name descname"><span class="pre">next_release_page</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.10)"><span class="pre">bool</span></a></em><a class="headerlink" href="#guyamoe_api_types.series.Series.next_release_page" title="Permalink to this definition">#</a></dt>
-<dd><p>Whether or not the next release page is enabled for the series.</p>
+<dd><p>Whether the next release page is enabled for the series.</p>
 </dd></dl>
 <dl class="py attribute">
 <dt class="sig sig-object py" id="guyamoe_api_types.series.Series.next_release_time">
