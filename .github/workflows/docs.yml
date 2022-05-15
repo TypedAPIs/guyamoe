@@ -67,7 +67,7 @@ jobs:
       - name: Get Python docs
         uses: actions/download-artifact@v3
         with:
-          name: py-docs.tar.gz
+          name: python-docs.tar.gz
           path: docs
       - name: Extract Python docs
         run: tar -xzf docs/python-docs.tar.gz docs
