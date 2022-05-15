@@ -26,6 +26,7 @@ jobs:
       - name: Compress docs
         run: |
           cd python/docs/_build/html
+          touch .nojekyll
           tar -czf ../../../../_artifacts/docs.tar.gz .
       - name: Upload docs
         uses: actions/upload-artifact@v3
