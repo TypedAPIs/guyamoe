@@ -19,14 +19,14 @@ class Chapter(TypedDict):
     groups: Dict[str, List[str]]
     """The pages released by each group for the chapter. The key is one of the group IDs from :attr:`.Series.groups`,
     and the value is the ordered list of page filenames.
-    
+
     A full page URL can be constructed using :attr:`.Series.slug`, :attr:`.folder`, the group ID,
     and the page filename, by filling the template:
     ``{baseUrl}/media/manga/{slug}/chapters/{folder}/{groupID}/{pageName}``
-    
+
     For example, if my base URL is ``https://guya.moe``, my slug is ``Kaguya-Wants-To-Be-Confessed-To``,
     my folder is ``0259_0ixv0umx``, my group ID is ``7``, and the page name is ``01.png?v3``,
-    I would point a request to 
+    I would point a request to
     ``https://guya.moe/media/manga/Kaguya-Wants-To-Be-Confessed-To/chapters/0259_0ixv0umx/7/01.png?v3``.
     """
 
@@ -56,16 +56,16 @@ class Series(TypedDict):
     """The artist of the series."""
 
     groups: Dict[str, str]
-    """A dictionary of group IDs and their respective names."""
+    """A dictionary of group IDs and their respective names. Only contains groups that have uploaded to the series."""
 
     cover: str
     """A :ref:`relative url` to the cover image of the series."""
 
     preferred_sort: List[str]
     """A list of the group IDs to prioritize when multiple groups upload the same chapter.
-    
+
     The values correspond to the group keys in :attr:`.groups`.
-    
+
     For example, if group ID ``1`` and group ID ``2`` both upload the same chapter, and ``preferred_sort`` is ``[1, 2]``,
     then the chapter for group ID ``1`` should be shown as the chapter for the given chapter number.
     """
@@ -74,7 +74,7 @@ class Series(TypedDict):
     """A dictionary of chapter numbers and their respective chapter information."""
 
     next_release_page: bool
-    """Whether or not the next release page is enabled for the series."""
+    """Whether the next release page is enabled for the series."""
 
     next_release_time: float
     """The UNIX timestamp for the approximate release time of the next chapter."""
