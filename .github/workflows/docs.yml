@@ -80,8 +80,14 @@ jobs:
         run: tar -xzf docs/py/docs.tar.gz -C docs
       - name: Extract JavaScript docs
         run: tar -xzf docs/js/docs.tar.gz -C docs/js
+      - run: find . -type f -name "*.gz" -delete
+      - name: Configure git to trust the workspace despite the different owner
+        run:
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+        # This is needed to avoid a git directory not found error when uploading the docs
+        # See https://github.com/JamesIves/github-pages-deploy-action/issues/1083#issuecomment-1106187470
       - name: Deploy docs
-        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: docs # The folder the action should deploy.
