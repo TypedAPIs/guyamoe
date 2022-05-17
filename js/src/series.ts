@@ -35,6 +35,11 @@ export interface Chapter {
      * and the value is the UNIX timestamp of the release time.
      */
     release_date: { [groupId: string]: number };
+    /**
+     * A list of the group IDs to prioritize when multiple groups upload the current chapter. This key may be omitted, in which case
+     * {@link Series.preferred_sort} should be considered, otherwise follow this array for the current chapter.
+     */
+    preferred_sort?: string[];
 }
 
 /**

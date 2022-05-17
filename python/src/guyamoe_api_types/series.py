@@ -1,6 +1,6 @@
 from typing import Dict, List
 
-from typing_extensions import TypedDict
+from typing_extensions import TypedDict, NotRequired
 
 class Chapter(TypedDict):
     """
@@ -33,6 +33,13 @@ class Chapter(TypedDict):
     release_date: Dict[str, int]
     """The time each group released the chapter. The key is one of the group IDs from :attr:`.Series.groups`,
     and the value is the UNIX timestamp of the release time."""
+
+    preferred_sort: NotRequired[List[str]]
+    """A list of the group IDs to prioritize when multiple groups upload the current chapter. This key may
+    be omitted, in which case :attr:`.Series.preferred_sort` should be considered, otherwise follow this list
+    for the current chapter."""
+
+
 
 class Series(TypedDict):
     """
