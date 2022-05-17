@@ -28,7 +28,7 @@ export interface SeriesSummary {
      * An object of group IDs and their respective names.
      *
      * The groups object is the **same** object for all series when obtained
-     * via the ``/get_all_series`` endpoint. This object may be different from
+     * via the `/get_all_series` endpoint. This object may be different from
      * the one obtained from the individual series endpoint.
      */
     groups: { [groupId: string]: string };

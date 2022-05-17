@@ -39,7 +39,7 @@ export interface SeriesPageData {
      *
      * So far, the structure of the metadata is as follows:
      *
-     * ```json
+     * ``json
      *     [
      *         [
      *             "Author",
@@ -58,7 +58,7 @@ export interface SeriesPageData {
      *             "Ch. <latest chapter number> - <year>-<month>-<day>"
      *         ]
      *     ]
-     * ```
+     * ``
      */
     metadata: [[string, string], [string, string], [string, number], [string, string]];
     /**
@@ -79,7 +79,7 @@ export interface SeriesPageData {
      * 3. The chapter title.
      * 4. A slugified version of the chapter number. Dots are replaced with dashes. For integer chapter numbers this
      *    value should be the same as the first and second elements.
-     * 5. The name of the group that uploaded the chapter or ``Multiple Groups`` if the chapter is uploaded by multiple
+     * 5. The name of the group that uploaded the chapter or `Multiple Groups` if the chapter is uploaded by multiple
      *    groups.
      * 6. The date and time the chapter was published. This is another tuple-like list that has these elements:
      *     1. The year.
@@ -103,7 +103,7 @@ export interface SeriesPageData {
      *     1. The chapter number.
      *     2. A slugified version of the chapter number. Dots are replaced with dashes. For integer chapter numbers this
      *        value should be the same as the first and second elements.
-     *     3. The name of the group that uploaded the chapter or ``Multiple Groups`` if the chapter is uploaded by multiple
+     *     3. The name of the group that uploaded the chapter or `Multiple Groups` if the chapter is uploaded by multiple
      *        groups.
      *     4. The date and time the chapter was published. This is another tuple-like list that has these elements:
      *
