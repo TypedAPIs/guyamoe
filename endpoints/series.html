@@ -230,6 +230,13 @@ I would point a request to
 <code class="docutils literal notranslate"><span class="pre">https://guya.moe/media/manga/Kaguya-Wants-To-Be-Confessed-To/chapters/0259_0ixv0umx/7/01.png?v3</span></code>.</p>
 </dd></dl>
 <dl class="py attribute">
+<dt class="sig sig-object py" id="guyamoe_api_types.series.Chapter.preferred_sort">
+<span class="sig-name descname"><span class="pre">preferred_sort</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">typing_extensions.NotRequired</span><span class="p"><span class="pre">[</span></span><span class="pre">List</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></em><a class="headerlink" href="#guyamoe_api_types.series.Chapter.preferred_sort" title="Permalink to this definition">#</a></dt>
+<dd><p>A list of the group IDs to prioritize when multiple groups upload the current chapter. This key may
+be omitted, in which case <a class="reference internal" href="#guyamoe_api_types.series.Series.preferred_sort" title="guyamoe_api_types.series.Series.preferred_sort"><code class="xref py py-attr docutils literal notranslate"><span class="pre">Series.preferred_sort</span></code></a> should be considered, otherwise follow this list
+for the current chapter.</p>
+</dd></dl>
+<dl class="py attribute">
 <dt class="sig sig-object py" id="guyamoe_api_types.series.Chapter.release_date">
 <span class="sig-name descname"><span class="pre">release_date</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><span class="pre">int</span></a><span class="p"><span class="pre">]</span></span></em><a class="headerlink" href="#guyamoe_api_types.series.Chapter.release_date" title="Permalink to this definition">#</a></dt>
 <dd><p>The time each group released the chapter. The key is one of the group IDs from <a class="reference internal" href="#guyamoe_api_types.series.Series.groups" title="guyamoe_api_types.series.Series.groups"><code class="xref py py-attr docutils literal notranslate"><span class="pre">Series.groups</span></code></a>,
