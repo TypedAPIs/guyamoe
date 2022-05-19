@@ -8,7 +8,7 @@ JS_DATA_DIR="$BASEDIR/js/tests/data"
 
 mkdir -p "$JS_DATA_DIR"
 
-curl -# 'https://guya.cubari.moe/api/get_groups/Kaguya-Wants-To-Be-Confessed-To/' -o "$JS_DATA_DIR/allGroups.json"
+curl -# 'https://guya.cubari.moe/api/get_all_groups/' -o "$JS_DATA_DIR/allGroups.json"
 curl -# 'https://guya.cubari.moe/api/get_all_series/' -o "$JS_DATA_DIR/allSeries.json"
 curl -# -X POST 'https://guya.cubari.moe/api/search_index/Kaguya-Wants-To-Be-Confessed-To/' -d 'searchQuery=hello' -o "$JS_DATA_DIR/searchIndex.json"
 curl -# 'https://guya.cubari.moe/api/series/Kaguya-Wants-To-Be-Confessed-To/' -o "$JS_DATA_DIR/series.json"

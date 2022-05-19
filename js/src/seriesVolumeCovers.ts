@@ -1,6 +1,11 @@
 import {SeriesVolumeCover} from "./seriesVolumeCover";
 
 /**
- * A list of {@link SeriesVolumeCover} for a series.
+ * A list of all volume covers for a series.
  */
-export type SeriesVolumeCovers = SeriesVolumeCover[]
+export interface SeriesVolumeCovers {
+    /**
+     * The list of volume covers.
+     */
+    covers: SeriesVolumeCover[];
+}
