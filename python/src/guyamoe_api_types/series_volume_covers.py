@@ -1,6 +1,15 @@
 from typing import List
 
+from typing_extensions import TypedDict
+
 from .series_volume_cover import SeriesVolumeCover
 
-SeriesVolumeCovers = List[SeriesVolumeCover]
-"""A list of :py:const:`~guyamoe_api_types.series_volume_cover.SeriesVolumeCover` objects for a given series."""
+
+class SeriesVolumeCovers(TypedDict):
+    """
+    SeriesVolumeCovers(data: Dict[str, Any]) -> SeriesVolumeCovers
+    SeriesVolumeCovers(**attrs: Any) -> SeriesVolumeCovers
+    An object containing a list of volume covers for a series."""
+
+    covers: List[SeriesVolumeCover]
+    """The list of volume covers for the series."""

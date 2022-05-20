@@ -1,6 +1,6 @@
 from typing import Dict, List
 
-SearchIndex = Dict[str, Dict[str, Dict[str, List[str]]]]
+SearchIndex = Dict[str, Dict[str, Dict[str, List[int]]]]
 """A dictionary of search query matches.
 
 The search query works by splitting the provided query into words and then processing the first 20.
