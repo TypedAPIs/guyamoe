@@ -2,6 +2,7 @@ from typing import Dict
 
 from typing_extensions import TypedDict
 
+
 class SeriesGroups(TypedDict):
     """
     SeriesGroups(data: Dict[str, Any]) -> SeriesGroups

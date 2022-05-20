@@ -2,6 +2,7 @@ from typing import Dict
 
 from typing_extensions import TypedDict
 
+
 class SeriesSummary(TypedDict):
     """
     SeriesSummary(data: Dict[str, Any]) -> SeriesSummary
@@ -9,6 +10,7 @@ class SeriesSummary(TypedDict):
     A series dictionary that contains a subset of the attributes found on a normal :class:`.Series`.
     This is returned on the API endpoint for all series.
     """
+
     author: str
     """The author of the series."""
 
@@ -35,6 +37,7 @@ class SeriesSummary(TypedDict):
 
     last_updated: float
     """The Unix timestamp of when the series was last updated."""
+
 
 AllSeries = Dict[str, SeriesSummary]
 """The root JSON document for all series is a dictionary where the keys are the title

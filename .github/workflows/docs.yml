@@ -16,7 +16,8 @@ jobs:
       - name: Install dependencies
         run: |
           cd python
-          pip install '.[docs]'
+          pip install pipenv
+          pipenv install --dev
       - name: Build docs
         run: |
           cd python/docs

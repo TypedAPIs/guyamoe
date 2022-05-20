@@ -2,11 +2,13 @@ from typing import Dict, List
 
 from typing_extensions import TypedDict, NotRequired
 
+
 class Chapter(TypedDict):
     """
     Chapter(data: Dict[str, Any]) -> Chapter
     Chapter(**attrs: Any) -> Chapter
     A chapter of a series."""
+
     volume: str
     """The volume number for the chapter."""
 
@@ -38,7 +40,6 @@ class Chapter(TypedDict):
     """A list of the group IDs to prioritize when multiple groups upload the current chapter. This key may
     be omitted, in which case :attr:`.Series.preferred_sort` should be considered, otherwise follow this list
     for the current chapter."""
-
 
 
 class Series(TypedDict):
@@ -88,4 +89,3 @@ class Series(TypedDict):
 
     next_release_html: str
     """The HTML for the next release page."""
-

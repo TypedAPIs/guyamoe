@@ -15,5 +15,7 @@ export const seriesGroupsJS: SeriesGroups = seriesGroups
 /*
 We use these exceptions because TypeScript is unable to read the JSON data as a constant-length array.
  */
-export const seriesVolumeCoverJS: SeriesVolumeCover = seriesVolumeCover as SeriesVolumeCover
-export const seriesVolumeCoversJS: SeriesVolumeCovers = seriesVolumeCovers as SeriesVolumeCovers
+// @ts-ignore
+export const seriesVolumeCoverJS: SeriesVolumeCover = seriesVolumeCover
+// @ts-ignore
+export const seriesVolumeCoversJS: SeriesVolumeCovers = seriesVolumeCovers
