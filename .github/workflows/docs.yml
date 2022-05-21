@@ -23,7 +23,7 @@ jobs:
       - name: Build docs
         run: |
           cd python/docs
-          make html
+          pipenv run make html
       - name: Make output directory
         run: mkdir -p _artifacts
       - name: Compress docs
