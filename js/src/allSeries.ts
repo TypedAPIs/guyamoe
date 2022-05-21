@@ -1,4 +1,4 @@
-import {RelativeURL} from "./internal";
+import { RelativeURL } from "./internal";
 /**
  * A series dictionary that contains a subset of the attributes found on a normal {@link Series}.
  * This is returned on the API endpoint for all series.
@@ -7,23 +7,23 @@ export interface SeriesSummary {
     /**
      * The author of the series.
      */
-    author: string
+    author: string;
     /**
      * The artist of the series.
      */
-    artist: string
+    artist: string;
     /**
      * The description of the series. May or may not contain HTML.
      */
-    description: string
+    description: string;
     /**
      * The id of the series.
      */
-    slug: string
+    slug: string;
     /**
      * A relative url to the series' primary cover.
      */
-    cover: RelativeURL
+    cover: RelativeURL;
     /**
      * An object of group IDs and their respective names.
      *

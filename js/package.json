@@ -7,7 +7,9 @@
   "scripts": {
     "test": "tsc -p tsconfig.json",
     "docs": "typedoc src/index.ts",
-    "clean": "find src tests -type f \\( -name '*.js' -o -name '*.d.ts' \\) -delete"
+    "clean": "find src tests -type f \\( -name '*.js' -o -name '*.d.ts' \\) -delete",
+    "lint-check": "prettier --check 'src/**/*.ts' 'tests/**/*.ts'",
+    "lint": "prettier --write 'src/**/*.ts' 'tests/**/*.ts'"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,7 @@
   },
   "homepage": "https://github.com/TypedAPIs/guyamoe#readme",
   "devDependencies": {
+    "prettier": "^2.6.2",
     "typedoc": "^0.22.15",
     "typescript": "^4.6.3"
   },

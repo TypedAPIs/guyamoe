@@ -1,4 +1,4 @@
-import {RelativeURL} from "./internal";
+import { RelativeURL } from "./internal";
 
 /**
  * A chapter of a series.
@@ -49,27 +49,27 @@ export interface Series {
     /**
      * The author of the series.
      */
-    author: string
+    author: string;
     /**
      * The artist of the series.
      */
-    artist: string
+    artist: string;
     /**
      * The description of the series. May or may not contain HTML.
      */
-    description: string
+    description: string;
     /**
      * The id of the series.
      */
-    slug: string
+    slug: string;
     /**
      * A relative url to the series' primary cover.
      */
-    cover: RelativeURL
+    cover: RelativeURL;
     /**
      * The title of a series.
      */
-    title: string
+    title: string;
     /**
      * An object of group IDs and their respective names. Only contains groups that have uploaded to the series.
      */

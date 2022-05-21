@@ -15,6 +15,7 @@ black = "*"
 
 [scripts]
 lint = "black ."
+lint-check = "black --check ."
 test = "mypy tests/test.py"
 
 [requires]

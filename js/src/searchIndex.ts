@@ -13,4 +13,8 @@
  * Finally, the list that is the value of the innermost object shows the pages in the chapter
  * that matched the given word.
  */
-export type SearchIndex = { [wordFromQuery: string]: { [matchedWord: string]: { [chapterNum: string]: number[] }  } }
+export type SearchIndex = {
+    [wordFromQuery: string]: {
+        [matchedWord: string]: { [chapterNum: string]: number[] };
+    };
+};

@@ -1,4 +1,4 @@
-import {SeriesVolumeCover} from "./seriesVolumeCover";
+import { SeriesVolumeCover } from "./seriesVolumeCover";
 
 /**
  * A list of all volume covers for a series.

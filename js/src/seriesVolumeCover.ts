@@ -1,4 +1,4 @@
-import {RelativeURL} from "./internal";
+import { RelativeURL } from "./internal";
 /**
  * A 4-element tuple containing the following elements:
  *

@@ -1,13 +1,13 @@
 /**
  * An object containing various metadata about a page.
  */
-import {RelativeURL} from "./internal";
+import { RelativeURL } from "./internal";
 
 export interface SeriesPageData {
     /**
      * The title of the series.
      */
-    series: string
+    series: string;
     /**
      * A list of alternate titles for the series.
      */
@@ -60,7 +60,12 @@ export interface SeriesPageData {
      *     ]
      * ``
      */
-    metadata: [[string, string], [string, string], [string, number], [string, string]];
+    metadata: [
+        [string, string],
+        [string, string],
+        [string, number],
+        [string, string]
+    ];
     /**
      * The synopsis of the series.
      */
@@ -90,7 +95,15 @@ export interface SeriesPageData {
      *     6. The second.
      * 7. The chapter's volume (integer) or the string `null`.
      */
-    chapter_list: [string, string, string, string, string, [number, number, number, number, number, number], number][];
+    chapter_list: [
+        string,
+        string,
+        string,
+        string,
+        string,
+        [number, number, number, number, number, number],
+        number
+    ][];
     /**
      * A list of lists containing information on each volume.
      *
@@ -114,7 +127,15 @@ export interface SeriesPageData {
      *         5. The minute.
      *         6. The second.
      */
-    volume_list: [number, [string, string, string, [number, number, number, number, number, number]][]][];
+    volume_list: [
+        number,
+        [
+            string,
+            string,
+            string,
+            [number, number, number, number, number, number]
+        ][]
+    ][];
     /**
      * The root domain of the series. This is a domain name without the protocol.
      */
@@ -136,7 +157,7 @@ export interface SeriesPageData {
         "volumeCovers",
         "rss",
         "download"
-    ]
+    ];
     /**
      * The part of the {@link relative_url} that does not contain the slug. The modifier can be used in conjunction
      * with {@link slug} to construct the relative url to the series page.
@@ -151,6 +172,4 @@ export interface SeriesPageData {
      * of.
      */
     version_query: string;
-
-
 }

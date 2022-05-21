@@ -5,8 +5,15 @@ from .examples.series import data as series_data
 from .examples.seriesGroups import data as seriesGroups_data
 from .examples.seriesVolumeCover import data as seriesVolumeCover_data
 from .examples.seriesVolumeCovers import data as seriesVolumeCovers_data
-from guyamoe_api_types import AllGroups, AllSeries, SearchIndex, Series, SeriesGroups, SeriesVolumeCover, \
-    SeriesVolumeCovers
+from guyamoe_api_types import (
+    AllGroups,
+    AllSeries,
+    SearchIndex,
+    Series,
+    SeriesGroups,
+    SeriesVolumeCover,
+    SeriesVolumeCovers,
+)
 
 allSeries: AllSeries = allSeries_data
 series: Series = series_data
