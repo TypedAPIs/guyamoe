@@ -80,8 +80,6 @@ jobs:
         with:
           name: js-docs.tar.gz
           path: docs/js
-      - name: Debug step
-        run: ls -Rl .
       - name: Extract Python docs
         run: tar -xzf docs/py/docs.tar.gz -C docs
       - name: Extract JavaScript docs
