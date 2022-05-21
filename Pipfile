@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 typing-extensions = "*"
-guyamoe-api-types = {path = "./python"}
+guyamoe-api-types = {editable = true, path = "./python"}
 
 [dev-packages]
 sphinx = "*"

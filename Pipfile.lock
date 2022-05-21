@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "83b96b7d82de5f0e15b450d99ae979d661aa9883d47240937ee43384f09b43e3"
+            "sha256": "abaeae12a422eed6a1bc05f7513df6232861d6fac8349d21bf8a268ef329042e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -17,8 +17,8 @@
     },
     "default": {
         "guyamoe-api-types": {
-            "path": "./python",
-            "version": "==1.0"
+            "editable": true,
+            "path": "./python"
         },
         "typing-extensions": {
             "hashes": [
