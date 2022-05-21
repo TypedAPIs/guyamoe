@@ -13,6 +13,7 @@ furo = "*"
 mypy = "*"
 black = "*"
 build = "*"
+twine = "*"
 
 [scripts]
 lint = "black ."
