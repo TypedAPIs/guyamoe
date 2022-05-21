@@ -12,6 +12,7 @@ sphinx = "*"
 furo = "*"
 mypy = "*"
 black = "*"
+build = "*"
 
 [scripts]
 lint = "black ."
