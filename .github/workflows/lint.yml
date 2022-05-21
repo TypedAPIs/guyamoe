@@ -7,7 +7,7 @@ on:
     branches:
       - main
 jobs:
-  py-test:
+  py-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -24,7 +24,7 @@ jobs:
         run: |
           cd python
           pipenv run lint-check
-  js-test:
+  js-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
