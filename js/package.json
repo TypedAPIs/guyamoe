@@ -8,8 +8,8 @@
     "test": "tsc -p tsconfig.json",
     "docs": "typedoc src/index.ts",
     "clean": "find src tests -type f \\( -name '*.js' -o -name '*.d.ts' \\) -delete",
-    "lint-check": "prettier --check 'src/**/*.ts' 'tests/**/*.ts'",
-    "lint": "prettier --write 'src/**/*.ts' 'tests/**/*.ts'"
+    "lint-check": "prettier --check 'src/**/*.ts' 'tests/**/*.ts' 'tests/**/*.json'",
+    "lint": "prettier --write 'src/**/*.ts' 'tests/**/*.ts' 'tests/**/*.json'"
   },
   "repository": {
     "type": "git",

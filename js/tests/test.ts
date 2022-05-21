@@ -5,6 +5,7 @@ import * as series from "./data/series.json";
 import * as seriesGroups from "./data/seriesGroups.json";
 import * as seriesVolumeCover from "./data/seriesVolumeCover.json";
 import * as seriesVolumeCovers from "./data/seriesVolumeCovers.json";
+import * as seriesPageData from "./data/seriesPageData.json";
 import {
     AllGroups,
     AllSeries,
@@ -13,6 +14,7 @@ import {
     SeriesGroups,
     SeriesVolumeCover,
     SeriesVolumeCovers,
+    SeriesPageData,
 } from "../src";
 
 export const allGroupsJS: AllGroups = allGroups;
@@ -27,3 +29,5 @@ We use these exceptions because TypeScript is unable to read the JSON data as a 
 export const seriesVolumeCoverJS: SeriesVolumeCover = seriesVolumeCover;
 // @ts-ignore
 export const seriesVolumeCoversJS: SeriesVolumeCovers = seriesVolumeCovers;
+// @ts-ignore
+export const seriesPageDataJS: SeriesPageData = seriesPageData;

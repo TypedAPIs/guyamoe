@@ -15,12 +15,13 @@ curl -# 'https://guya.cubari.moe/api/series/Kaguya-Wants-To-Be-Confessed-To/' -o
 curl -# 'https://guya.cubari.moe/api/get_groups/Kaguya-Wants-To-Be-Confessed-To/' -o "$JS_DATA_DIR/seriesGroups.json"
 curl -# 'https://guya.cubari.moe/api/get_volume_cover/Kaguya-Wants-To-Be-Confessed-To/1/' -o "$JS_DATA_DIR/seriesVolumeCover.json"
 curl -# 'https://guya.cubari.moe/api/get_volume_covers/Kaguya-Wants-To-Be-Confessed-To/' -o "$JS_DATA_DIR/seriesVolumeCovers.json"
+curl -# 'https://guya.cubari.moe/api/series_page_data/Kaguya-Wants-To-Be-Confessed-To/' -o "$JS_DATA_DIR/seriesPageData.json"
 
 # Python support
 
 function jsonToPython() {
     # Usage: jsonToPython <json file> <python file>
-    python3 -c $'import json, sys\nprint("data = w" + repr(json.loads(sys.stdin.read())))' < "$1" > "$2"
+    python3 -c $'import json, sys\nprint("data = " + repr(json.loads(sys.stdin.read())))' < "$1" > "$2"
 }
 
 PY_DATA_DIR="$BASEDIR/python/tests/examples"
@@ -34,3 +35,4 @@ jsonToPython "$JS_DATA_DIR/series.json" "$PY_DATA_DIR/series.py"
 jsonToPython "$JS_DATA_DIR/seriesGroups.json" "$PY_DATA_DIR/seriesGroups.py"
 jsonToPython "$JS_DATA_DIR/seriesVolumeCover.json" "$PY_DATA_DIR/seriesVolumeCover.py"
 jsonToPython "$JS_DATA_DIR/seriesVolumeCovers.json" "$PY_DATA_DIR/seriesVolumeCovers.py"
+jsonToPython "$JS_DATA_DIR/seriesPageData.json" "$PY_DATA_DIR/seriesPageData.py"

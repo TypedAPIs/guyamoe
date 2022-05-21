@@ -1,0 +1,3697 @@
+{
+    "series": "Kaguya-sama: Love is War",
+    "alt_titles": [
+        "Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains",
+        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+    ],
+    "alt_titles_str": " Alternative titles: Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen.",
+    "series_id": 1,
+    "slug": "Kaguya-Wants-To-Be-Confessed-To",
+    "cover_vol_url": "/media/manga/Kaguya-Wants-To-Be-Confessed-To/volume_covers/25/18665.jpg",
+    "cover_vol_url_webp": "/media/manga/Kaguya-Wants-To-Be-Confessed-To/volume_covers/25/18665.webp",
+    "metadata": [
+        ["Author", "Aka Akasaka"],
+        ["Artist", "Aka Akasaka"],
+        ["Views", 49891332],
+        ["Last Updated", "Ch. 263 - 2022-05-19"]
+    ],
+    "synopsis": "All\u2019s fair when love is war!\r\nKaguya Shinomiya and Miyuki Shirogane are two geniuses that lead the prestigious Shuchiin academy\u2019s student council. After spending so much time together, they have developed feelings for one another but both are too prideful to be the first to confess since that would be a loss in the competition of love! Who will confess their love first?",
+    "author": "Aka Akasaka",
+    "chapter_list": [
+        [
+            "263",
+            "263",
+            "Kaguya-sama Wants to Provoke",
+            "263",
+            "Zaibatsu",
+            [2022, 4, 19, 10, 36, 18],
+            25
+        ],
+        [
+            "262",
+            "262",
+            "Kaguya-sama Wants to Return",
+            "262",
+            "Zaibatsu",
+            [2022, 4, 13, 14, 24, 1],
+            25
+        ],
+        [
+            "261",
+            "261",
+            "Kaguya-sama Wants to be Confessed To",
+            "261",
+            "Zaibatsu",
+            [2022, 3, 28, 11, 38, 41],
+            25
+        ],
+        [
+            "260",
+            "260",
+            "Kaguya-sama Isn\u2019t Lonely",
+            "260",
+            "Zaibatsu",
+            [2022, 3, 22, 8, 54, 11],
+            25
+        ],
+        [
+            "259",
+            "259",
+            "Kaguya-sama Wants to Fulfill",
+            "259",
+            "Zaibatsu",
+            [2022, 3, 8, 3, 40, 31],
+            25
+        ],
+        [
+            "258",
+            "258",
+            "Kaguya-sama Wants to Escape",
+            "258",
+            "Zaibatsu",
+            [2022, 3, 1, 5, 30, 39],
+            25
+        ],
+        [
+            "257",
+            "257",
+            "Miko Iino Doesn\u2019t Do What\u2019s Right",
+            "257",
+            "Zaibatsu",
+            [2022, 2, 23, 20, 36, 58],
+            25
+        ],
+        [
+            "256",
+            "256",
+            "Mikado Shijo Wants to Save",
+            "256",
+            "Zaibatsu",
+            [2022, 2, 18, 6, 11, 57],
+            25
+        ],
+        [
+            "255",
+            "255",
+            "The Hayasaka Family Doesn\u2019t Approve",
+            "255",
+            "Zaibatsu",
+            [2022, 2, 3, 14, 55, 56],
+            25
+        ],
+        [
+            "254",
+            "254",
+            "Miko Iino Doesn\u2019t Drain Her Noodles",
+            "254",
+            "Zaibatsu",
+            [2022, 1, 25, 16, 1, 31],
+            25
+        ],
+        [
+            "253",
+            "253",
+            "Miyuki Shirogane Wants to Request",
+            "253",
+            "Zaibatsu",
+            [2022, 1, 10, 13, 25, 33],
+            25
+        ],
+        [
+            "252",
+            "252",
+            "Shozo Tanuma Wants to Talk",
+            "252",
+            "Zaibatsu",
+            [2022, 1, 3, 13, 45, 54],
+            25
+        ],
+        [
+            "251",
+            "251",
+            "Mikado Shijo Wants to Protect",
+            "251",
+            "Zaibatsu",
+            [2022, 0, 27, 9, 56, 37],
+            25
+        ],
+        [
+            "250",
+            "250",
+            "Miyuki Shirogane Wants to Rely",
+            "250",
+            "Zaibatsu",
+            [2022, 0, 19, 19, 15, 50],
+            25
+        ],
+        [
+            "249",
+            "249",
+            "Kaguya-sama Wants to Break Up (Part 2)",
+            "249",
+            "Zaibatsu",
+            [2022, 0, 7, 6, 16, 56],
+            25
+        ],
+        [
+            "248",
+            "248",
+            "Kaguya-sama Wants to Break Up",
+            "248",
+            "Zaibatsu",
+            [2021, 11, 22, 19, 35, 3],
+            25
+        ],
+        [
+            "247",
+            "247",
+            "Yu Ishigami Can\u2019t Bring Himself to Say",
+            "247",
+            "Zaibatsu",
+            [2021, 11, 16, 5, 21, 42],
+            25
+        ],
+        [
+            "246",
+            "246",
+            "Thus, Yu Ishigami Closed His Eyes, Part 5",
+            "246",
+            "Zaibatsu",
+            [2021, 11, 2, 13, 21, 33],
+            25
+        ],
+        [
+            "245",
+            "245",
+            "Thus, Yu Ishigami Closed His Eyes, Part 4",
+            "245",
+            "Zaibatsu",
+            [2021, 10, 27, 4, 3, 13],
+            25
+        ],
+        [
+            "244",
+            "244",
+            "Yu Ishigami Looks Down",
+            "244",
+            "Zaibatsu",
+            [2021, 10, 12, 14, 10, 24],
+            25
+        ],
+        [
+            "243",
+            "243",
+            "Ai Hayasaka Wants to Dress Up",
+            "243",
+            "Zaibatsu",
+            [2021, 10, 4, 19, 26, 17],
+            25
+        ],
+        [
+            "242",
+            "242",
+            "The Shinomiya Family",
+            "242",
+            "Zaibatsu",
+            [2021, 9, 28, 10, 38, 45],
+            25
+        ],
+        [
+            "241.1",
+            "241.1",
+            "Vol 24 Extras",
+            "241-1",
+            "Zaibatsu",
+            [2021, 11, 31, 16, 0, 47],
+            24
+        ],
+        [
+            "241",
+            "241",
+            "Un\u2019yo Shinomiya Can\u2019t Talk",
+            "241",
+            "Zaibatsu",
+            [2021, 9, 21, 16, 16, 2],
+            24
+        ],
+        [
+            "240",
+            "240",
+            "Kaguya-sama Wants to Dance",
+            "240",
+            "Zaibatsu",
+            [2021, 9, 7, 9, 6, 57],
+            24
+        ],
+        [
+            "239",
+            "239",
+            "Adolphe Pescarolo Wants to Protect",
+            "239",
+            "Zaibatsu",
+            [2021, 9, 1, 18, 49, 51],
+            24
+        ],
+        [
+            "238",
+            "238",
+            "Yu Ishigami Wants to Invite",
+            "238",
+            "Zaibatsu",
+            [2021, 8, 22, 10, 0, 53],
+            24
+        ],
+        [
+            "237",
+            "237",
+            "Miyuki Shirogane Doesn\u2019t Want to Put It In",
+            "237",
+            "Zaibatsu",
+            [2021, 8, 16, 14, 59, 11],
+            24
+        ],
+        [
+            "236",
+            "236",
+            "Kaguya-sama Wants to Stay The Night",
+            "236",
+            "Zaibatsu",
+            [2021, 8, 2, 10, 5, 59],
+            24
+        ],
+        [
+            "235",
+            "235",
+            "Chika Fujiwara Wants to Date",
+            "235",
+            "Zaibatsu",
+            [2021, 7, 26, 12, 9, 4],
+            24
+        ],
+        [
+            "234",
+            "234",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 9)",
+            "234",
+            "Zaibatsu",
+            [2021, 7, 19, 8, 24, 44],
+            24
+        ],
+        [
+            "233",
+            "233",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 8)",
+            "233",
+            "Zaibatsu",
+            [2021, 7, 5, 5, 30, 4],
+            24
+        ],
+        [
+            "232",
+            "232",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 7)",
+            "232",
+            "Zaibatsu",
+            [2021, 6, 29, 4, 29, 24],
+            24
+        ],
+        [
+            "231.1",
+            "231.1",
+            "Vol 23 Extras",
+            "231-1",
+            "Zaibatsu",
+            [2021, 8, 5, 18, 10, 57],
+            23
+        ],
+        [
+            "231",
+            "231",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 6)",
+            "231",
+            "Zaibatsu",
+            [2021, 6, 14, 19, 46, 1],
+            23
+        ],
+        [
+            "230",
+            "230",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 5)",
+            "230",
+            "Zaibatsu",
+            [2021, 6, 7, 21, 18, 49],
+            23
+        ],
+        [
+            "229",
+            "229",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 4)",
+            "229",
+            "Zaibatsu",
+            [2021, 6, 1, 7, 9, 10],
+            23
+        ],
+        [
+            "228",
+            "228",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 3)",
+            "228",
+            "Zaibatsu",
+            [2021, 4, 26, 19, 33, 55],
+            23
+        ],
+        [
+            "227",
+            "227",
+            "Miko Iino Wants to Console",
+            "227",
+            "Zaibatsu",
+            [2021, 4, 20, 0, 48, 32],
+            23
+        ],
+        [
+            "226",
+            "226",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Buddha\u2019s Stone Begging Bowl\u201d (Part 2)",
+            "226",
+            "Zaibatsu",
+            [2021, 4, 12, 22, 24, 25],
+            23
+        ],
+        [
+            "225",
+            "225",
+            "Hikaru Oobayashi Wants to Protect",
+            "225",
+            "Zaibatsu",
+            [2021, 3, 22, 9, 10, 59],
+            23
+        ],
+        [
+            "224",
+            "224",
+            "Chika Fujiwara Wants to Teach",
+            "224",
+            "Zaibatsu",
+            [2021, 3, 15, 6, 59, 22],
+            23
+        ],
+        [
+            "223",
+            "223",
+            "Chika Fujiwara Refuses to Acknowledge",
+            "223",
+            "Zaibatsu",
+            [2021, 3, 9, 3, 12, 47],
+            23
+        ],
+        [
+            "222",
+            "222",
+            "Kaguya Shinomiya\u2019s Impossible Challenge: \u201cThe Jeweled Branch of Hourai\u201d",
+            "222",
+            "Zaibatsu",
+            [2021, 3, 1, 13, 55, 59],
+            23
+        ],
+        [
+            "221.1",
+            "221.1",
+            "Vol 22 Extras",
+            "221-1",
+            "Zaibatsu",
+            [2021, 5, 11, 13, 30, 7],
+            22
+        ],
+        [
+            "221",
+            "221",
+            "Kaguya-sama Wants to Talk",
+            "221",
+            "Zaibatsu",
+            [2021, 2, 25, 5, 39, 55],
+            22
+        ],
+        [
+            "220",
+            "220",
+            "The ABCs of Men and Women, Part 6",
+            "220",
+            "Zaibatsu",
+            [2021, 2, 10, 17, 13, 55],
+            22
+        ],
+        [
+            "219",
+            "219",
+            "The ABCs of Men and Women, Part 5",
+            "219",
+            "Zaibatsu",
+            [2021, 2, 4, 6, 14, 3],
+            22
+        ],
+        [
+            "218",
+            "218",
+            "The ABCs of Men and Women, Part 4",
+            "218",
+            "Zaibatsu",
+            [2021, 1, 25, 4, 30, 4],
+            22
+        ],
+        [
+            "217",
+            "217",
+            "The ABCs of Men and Women, Part 3",
+            "217",
+            "Zaibatsu",
+            [2021, 1, 18, 6, 0, 4],
+            22
+        ],
+        [
+            "216",
+            "216",
+            "Kaguya and the Girls Want to Talk",
+            "216",
+            "Zaibatsu",
+            [2021, 1, 3, 20, 22, 4],
+            22
+        ],
+        [
+            "215",
+            "215",
+            "The ABCs of Men and Women, Part 2",
+            "215",
+            "Zaibatsu",
+            [2021, 0, 28, 6, 48, 3],
+            22
+        ],
+        [
+            "214",
+            "214",
+            "Kaguya-sama Hates Cats",
+            "214",
+            "Zaibatsu",
+            [2021, 0, 21, 7, 5, 33],
+            22
+        ],
+        [
+            "213",
+            "213",
+            "Senpai-kun and Kouhai-chan, Part 4",
+            "213",
+            "Zaibatsu",
+            [2021, 0, 6, 17, 52, 14],
+            22
+        ],
+        [
+            "212",
+            "212",
+            "Mikado Shijo Wants to Fit In",
+            "212",
+            "Zaibatsu",
+            [2020, 11, 24, 12, 40, 33],
+            22
+        ],
+        [
+            "211.1",
+            "211.1",
+            "Vol 21 Extras",
+            "211-1",
+            "Zaibatsu",
+            [2021, 2, 19, 13, 22, 3],
+            21
+        ],
+        [
+            "211",
+            "211",
+            "Kaguya-sama Wants to Sit",
+            "211",
+            "Zaibatsu",
+            [2020, 11, 10, 8, 20, 4],
+            21
+        ],
+        [
+            "210",
+            "210",
+            "Chika Fujiwara Really, Really, Really Wants to Eat",
+            "210",
+            "Zaibatsu",
+            [2020, 11, 3, 11, 2, 4],
+            21
+        ],
+        [
+            "209",
+            "209",
+            "Dreams",
+            "209",
+            "Zaibatsu",
+            [2020, 10, 26, 7, 46, 5],
+            21
+        ],
+        [
+            "208",
+            "208",
+            "The Shirogane Family",
+            "208",
+            "Zaibatsu",
+            [2020, 10, 19, 7, 5, 39],
+            21
+        ],
+        [
+            "207",
+            "207",
+            "Kei Shirogane Wants to be Welcoming",
+            "207",
+            "Zaibatsu",
+            [2020, 10, 5, 12, 47, 8],
+            21
+        ],
+        [
+            "206",
+            "206",
+            "Miyuki Shirogane Isn\u2019t Depressing",
+            "206",
+            "Zaibatsu",
+            [2020, 9, 28, 19, 30, 42],
+            21
+        ],
+        [
+            "205",
+            "205",
+            "Chika Fujiwara Wants to Make Him Laugh",
+            "205",
+            "Zaibatsu",
+            [2020, 9, 21, 16, 16, 4],
+            21
+        ],
+        [
+            "204",
+            "204",
+            "Tsubame Koyasu and Yu Ishigami: Part 2",
+            "204",
+            "Zaibatsu",
+            [2020, 9, 14, 17, 40, 34],
+            21
+        ],
+        [
+            "203",
+            "203",
+            "Tsubame Koyasu and Yu Ishigami: Part 1",
+            "203",
+            "Zaibatsu",
+            [2020, 9, 7, 16, 44, 7],
+            21
+        ],
+        [
+            "202",
+            "202",
+            "Shuchiin Academy Wants to See Them Off",
+            "202",
+            "Zaibatsu",
+            [2020, 8, 30, 17, 12, 4],
+            21
+        ],
+        [
+            "201.1",
+            "201.1",
+            "Vol 20 Extras",
+            "201-1",
+            "Zaibatsu",
+            [2020, 11, 7, 5, 30, 5],
+            20
+        ],
+        [
+            "201",
+            "201",
+            "Tsubame Koyasu Wants to Overwrite",
+            "201",
+            "Zaibatsu",
+            [2020, 8, 23, 16, 10, 4],
+            20
+        ],
+        [
+            "200",
+            "200",
+            "Chika Fujiwara Wants a Celebration",
+            "200",
+            "Multiple Groups",
+            [2020, 8, 10, 22, 8, 28],
+            20
+        ],
+        [
+            "199",
+            "199",
+            "Kaguya-sama Wants to be Heard",
+            "199",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 7, 30, 19, 0, 3],
+            20
+        ],
+        [
+            "198",
+            "198",
+            "Kaguya Shinomiya's Impossible Challenge: \"The Swallow's Cowry\" (Part 6)",
+            "198",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 7, 21, 3, 28, 45],
+            20
+        ],
+        [
+            "197",
+            "197",
+            "The Shirogane family wants to move",
+            "197",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 7, 6, 15, 17, 2],
+            20
+        ],
+        [
+            "196",
+            "196",
+            "Ai Hayasaka Wants to Find ",
+            "196",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 7, 3, 0, 9, 56],
+            20
+        ],
+        [
+            "195",
+            "195",
+            "Valentine's at Shuchiin, Part 2",
+            "195",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 6, 16, 2, 37, 4],
+            20
+        ],
+        [
+            "194",
+            "194",
+            "Valentine's at Shuchiin, Part 1",
+            "194",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 6, 2, 1, 16, 4],
+            20
+        ],
+        [
+            "193",
+            "193",
+            "Miyuki Shirogane Wants to Console",
+            "193",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 5, 25, 3, 2, 3],
+            20
+        ],
+        [
+            "192",
+            "192",
+            "Kobachi Osaragi Is Watching",
+            "192",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 5, 18, 0, 55, 3],
+            20
+        ],
+        [
+            "191.1",
+            "191.1",
+            "Vol 19 Extras",
+            "191-1",
+            "NotJag",
+            [2020, 6, 20, 17, 32, 31],
+            19
+        ],
+        [
+            "191",
+            "191",
+            "Kaguya Shinomiya's Impossible Challenge: \"The Swallow's Cowry\", Part 5",
+            "191",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 5, 4, 1, 19, 8],
+            19
+        ],
+        [
+            "190",
+            "190",
+            "Senpai-kun and Kouhai-chan, Part 3; Miko Iino Cannot Love, Part 5",
+            "190",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 4, 28, 2, 5, 18],
+            19
+        ],
+        [
+            "189",
+            "189",
+            "Kaguya Shinomiya's Impossible Challenge: \"The Buddha's Stone Begging Bowl\"",
+            "189",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 4, 21, 1, 53, 59],
+            19
+        ],
+        [
+            "188",
+            "188",
+            "Miko Iino Can't Make Him Answer",
+            "188",
+            "Multiple Groups",
+            [2020, 4, 22, 14, 46, 17],
+            19
+        ],
+        [
+            "187",
+            "187",
+            "Ai Hayasaka and Kaguya Shinomiya's Friends",
+            "187",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 3, 30, 2, 26, 23],
+            19
+        ],
+        [
+            "186",
+            "186",
+            "Ai Hayasaka's Friends, Part 5",
+            "186",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 3, 23, 1, 58, 3],
+            19
+        ],
+        [
+            "185",
+            "185",
+            "Ai Hayasaka's Friends, Part 4",
+            "185",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 3, 16, 2, 40, 4],
+            19
+        ],
+        [
+            "184",
+            "184",
+            "Ai Hayasaka\u2019s Friends, Part 3",
+            "184",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 3, 9, 1, 20, 4],
+            19
+        ],
+        [
+            "183",
+            "183",
+            "Ai Hayasaka\u2019s Friends, Part 2",
+            "183",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 2, 26, 4, 9, 3],
+            19
+        ],
+        [
+            "182",
+            "182",
+            "Ai Hayasaka's Friends, Part 1",
+            "182",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 2, 18, 22, 45, 58],
+            19
+        ],
+        [
+            "181.1",
+            "181.1",
+            "Vol 18 Extras",
+            "181-1",
+            "/a/nonymous",
+            [2020, 6, 2, 17, 25, 32],
+            18
+        ],
+        [
+            "181",
+            "181",
+            "Miyuki Shirogane Wants to Keep Her for Himself",
+            "181",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 2, 12, 4, 0, 8],
+            18
+        ],
+        [
+            "180",
+            "180",
+            "Miyuki Shirogane Wants to Go Around",
+            "180",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 2, 5, 8, 4, 41],
+            18
+        ],
+        [
+            "179",
+            "179",
+            "Ai Hayasaka's Morning Routine",
+            "179",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 1, 24, 18, 1, 2],
+            18
+        ],
+        [
+            "178",
+            "178",
+            "Senpai-kun and Kouhai-chan, Part 2",
+            "178",
+            "Multiple Groups",
+            [2020, 1, 21, 22, 50, 4],
+            18
+        ],
+        [
+            "177",
+            "177",
+            "Kaguya Shinomiya's Impossible Challenge: \"The Swallow's Cowry\" (Part 4)",
+            "177",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 1, 6, 9, 11, 1],
+            18
+        ],
+        [
+            "176",
+            "176",
+            "Yu Ishigami Wants to Show Off",
+            "176",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 0, 30, 2, 47, 14],
+            18
+        ],
+        [
+            "175",
+            "175",
+            "Kaguya Wants His Attention",
+            "175",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 0, 23, 7, 21, 48],
+            18
+        ],
+        [
+            "174",
+            "174",
+            "Miko Iino Cannot Love, Part 4",
+            "174",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 0, 9, 4, 39, 54],
+            18
+        ],
+        [
+            "173",
+            "173",
+            "Chika Fujiwara Wants to Tie",
+            "173",
+            "Multiple Groups",
+            [2019, 11, 27, 3, 45, 16],
+            18
+        ],
+        [
+            "172.1",
+            "172.1",
+            "Kagukoku: Miyuki and His Girls",
+            "172-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 11, 26, 22, 18, 3],
+            18
+        ],
+        [
+            "172",
+            "172",
+            "Kaguya Wants to Trust",
+            "172",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 11, 13, 2, 7, 4],
+            18
+        ],
+        [
+            "171.1",
+            "171.1",
+            "Vol 17 Extras",
+            "171-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2020, 2, 24, 17, 16, 4],
+            17
+        ],
+        [
+            "171",
+            "171",
+            "We Want to Talk About the Tabletop Gaming Club",
+            "171",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 11, 5, 3, 45, 49],
+            17
+        ],
+        [
+            "170",
+            "170",
+            "Miyuki Shirogane Wants to Talk",
+            "170",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 10, 27, 23, 33, 37],
+            17
+        ],
+        [
+            "169",
+            "169",
+            "The ABCs of Men and Women, Part 1",
+            "169",
+            "Multiple Groups",
+            [2019, 10, 23, 0, 52, 5],
+            17
+        ],
+        [
+            "168",
+            "168",
+            "First Encounter",
+            "168",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 10, 7, 2, 46, 21],
+            17
+        ],
+        [
+            "167",
+            "167",
+            "Nagisa Kashiwagi Wants to Drag It out of Her",
+            "167",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 9, 31, 18, 33, 3],
+            17
+        ],
+        [
+            "166",
+            "166",
+            "Yu Ishigami Wants to Get Hooked",
+            "166",
+            "Multiple Groups",
+            [2019, 9, 26, 14, 37, 36],
+            17
+        ],
+        [
+            "165",
+            "165",
+            "Senpai-kun and Kouhai-chan, Part 1",
+            "165",
+            "Multiple Groups",
+            [2019, 9, 20, 22, 29, 19],
+            17
+        ],
+        [
+            "164",
+            "164",
+            "Chika Fujiwara Wants to Love",
+            "164",
+            "Multiple Groups",
+            [2019, 9, 13, 23, 39, 54],
+            17
+        ],
+        [
+            "163",
+            "163",
+            "Chika Fujiwara Wants to Surprise",
+            "163",
+            "Multiple Groups",
+            [2019, 8, 27, 0, 20, 48],
+            17
+        ],
+        [
+            "162",
+            "162",
+            "Student Council: New Game",
+            "162",
+            "Multiple Groups",
+            [2019, 8, 18, 22, 34, 1],
+            17
+        ],
+        [
+            "161.1",
+            "161.1",
+            "Vol 16 Extras",
+            "161-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 11, 2, 0, 3, 3],
+            16
+        ],
+        [
+            "161",
+            "161",
+            "Maki Shijo Wants To Be Enlightened",
+            "161",
+            "Multiple Groups",
+            [2019, 8, 11, 22, 16, 42],
+            16
+        ],
+        [
+            "160",
+            "160",
+            "Kaguya..., Part 2",
+            "160",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 8, 6, 4, 5, 49],
+            16
+        ],
+        [
+            "159",
+            "159",
+            "Kaguya..., Part 1",
+            "159",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 7, 22, 6, 17, 44],
+            16
+        ],
+        [
+            "158",
+            "158",
+            "Miko Iino Cannot Love, Part 3",
+            "158",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 7, 7, 19, 30, 2],
+            16
+        ],
+        [
+            "157",
+            "157",
+            "Chika Fujiwara Really, Really Wants to Eat",
+            "157",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 7, 1, 7, 45, 29],
+            16
+        ],
+        [
+            "156",
+            "156",
+            "Miko Iino Cannot Love, Part 2",
+            "156",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 25, 20, 40, 4],
+            16
+        ],
+        [
+            "155",
+            "155",
+            "Kaguya Shinomiya's Impossible Challenge: \"The Swallow's Cowry\" (Part 3)",
+            "155",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 18, 2, 12, 10],
+            16
+        ],
+        [
+            "154",
+            "154",
+            "Kaguya Shinomiya's Impossible Challenge: \"The Swallow's Cowry\" (Part 2)",
+            "154",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 16],
+            16
+        ],
+        [
+            "153",
+            "153",
+            "The Swallow's Cowry (Ice)",
+            "153",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 15],
+            16
+        ],
+        [
+            "152",
+            "152",
+            "Nagisa Kashiwagi Wants to Conceal",
+            "152",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 15],
+            16
+        ],
+        [
+            "151.1",
+            "151.1",
+            "Vol 15 Extras",
+            "151-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 7, 12, 8, 8, 4],
+            15
+        ],
+        [
+            "151",
+            "151",
+            "The First Kiss Never Ends",
+            "151",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 15],
+            15
+        ],
+        [
+            "150",
+            "150",
+            "A Normal Romance",
+            "150",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 15],
+            15
+        ],
+        [
+            "149",
+            "149",
+            "Kaguya Thinks It's Fine",
+            "149",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 15],
+            15
+        ],
+        [
+            "148",
+            "148",
+            "Kaguya Wants to Confess (Ice)",
+            "148",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 14],
+            15
+        ],
+        [
+            "147",
+            "147",
+            "Our Personas (Shirogane, Part 1)",
+            "147",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 14],
+            15
+        ],
+        [
+            "146",
+            "146",
+            "Our Personas (Kaguya, Part 1)",
+            "146",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 14],
+            15
+        ],
+        [
+            "145",
+            "145",
+            "Kaguya Wants to Eat (Ice)",
+            "145",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 13],
+            15
+        ],
+        [
+            "144",
+            "144",
+            "Kaguya Wants to Confide (Ice)",
+            "144",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 13],
+            15
+        ],
+        [
+            "143",
+            "143",
+            "Kaguya Wants To Be Noticed (Ice)",
+            "143",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 13],
+            15
+        ],
+        [
+            "142",
+            "142",
+            "Regarding Kaguya Shinomiya, Part 4",
+            "142",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 13],
+            15
+        ],
+        [
+            "141.1",
+            "141.1",
+            "Vol 14 Extras",
+            "141-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 12],
+            14
+        ],
+        [
+            "141",
+            "141",
+            "Regarding Kaguya Shinomiya, Part 3",
+            "141",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 12],
+            14
+        ],
+        [
+            "140",
+            "140",
+            "Miko Iino Wants to Talk",
+            "140",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 12],
+            14
+        ],
+        [
+            "139",
+            "139",
+            "Miyuki Shirogane Wants to Discuss",
+            "139",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 12],
+            14
+        ],
+        [
+            "138",
+            "138",
+            "Kaguya Wants to Explain",
+            "138",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 12],
+            14
+        ],
+        [
+            "137",
+            "137",
+            "The Shuchiin Afterparty",
+            "137",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 11],
+            14
+        ],
+        [
+            "136",
+            "136",
+            "Dual Confessions, Part 3",
+            "136",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 11],
+            14
+        ],
+        [
+            "135",
+            "135",
+            "Dual Confessions, Part 2",
+            "135",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 11],
+            14
+        ],
+        [
+            "134",
+            "134",
+            "Dual Confessions, Part 1",
+            "134",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 11],
+            14
+        ],
+        [
+            "133",
+            "133",
+            "Kaguya Wants to Confess, Part 3",
+            "133",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 11],
+            14
+        ],
+        [
+            "132",
+            "132",
+            "Kaguya Wants to Confess, Part 2",
+            "132",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 11],
+            14
+        ],
+        [
+            "131.1",
+            "131.1",
+            "Vol 13 Extras",
+            "131-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 10],
+            13
+        ],
+        [
+            "131",
+            "131",
+            "Miyuki Shirogane Wants to Be Confessed to, Part 5",
+            "131",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 10],
+            13
+        ],
+        [
+            "130",
+            "130",
+            "Tsubame Koyasu Wants to Turn Him Down",
+            "130",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 10],
+            13
+        ],
+        [
+            "129",
+            "129",
+            "Miyuki Shirogane Wants to Be Confessed to, Part 4",
+            "129",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 10],
+            13
+        ],
+        [
+            "128",
+            "128",
+            "Kaguya Wants to Shoot Them Down",
+            "128",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 10],
+            13
+        ],
+        [
+            "127",
+            "127",
+            "Miyuki Shirogane's Culture Festival",
+            "127",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 9],
+            13
+        ],
+        [
+            "126",
+            "126",
+            "Chika Fujiwara Wants to Set the Record Straight",
+            "126",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 9],
+            13
+        ],
+        [
+            "125",
+            "125",
+            "Kozue Makihara Wants to Play",
+            "125",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 9],
+            13
+        ],
+        [
+            "124",
+            "124",
+            "Yu Ishigami's Culture Festival",
+            "124",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 9],
+            13
+        ],
+        [
+            "123",
+            "123",
+            "Kaguya's Culture Festival",
+            "123",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 9],
+            13
+        ],
+        [
+            "122",
+            "122",
+            "Kaguya Wants to Confess",
+            "122",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 8],
+            13
+        ],
+        [
+            "121.1",
+            "121.1",
+            "Vol 12 Extras",
+            "121-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 8],
+            12
+        ],
+        [
+            "121",
+            "121",
+            "Freshman Year, Spring",
+            "121",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 8],
+            12
+        ],
+        [
+            "120",
+            "120",
+            "Regarding Kaguya Shinomiya, Part 2",
+            "120",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 7],
+            12
+        ],
+        [
+            "119",
+            "119",
+            "Kei Shirogane Wants to Show Off",
+            "119",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 7],
+            12
+        ],
+        [
+            "118",
+            "118",
+            "Miyuki Shirogane Wants to Expand",
+            "118",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 7],
+            12
+        ],
+        [
+            "117",
+            "117",
+            "Chika Fujiwara Wants to Fight",
+            "117",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 7],
+            12
+        ],
+        [
+            "116",
+            "116",
+            "We Want to Talk About the Culture Festival",
+            "116",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 7],
+            12
+        ],
+        [
+            "115",
+            "115",
+            "Miko Iino Cannot Love, Part 1",
+            "115",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 6],
+            12
+        ],
+        [
+            "114",
+            "114",
+            "Miyuki Shirogane Wants to be Confessed to, Part 3",
+            "114",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 6],
+            12
+        ],
+        [
+            "113",
+            "113",
+            "Miyuki Shirogane Wants to Be Confessed to, Part 2",
+            "113",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 6],
+            12
+        ],
+        [
+            "112",
+            "112",
+            "Miyuki Shirogane Wants to Be Confessed to, Part 1",
+            "112",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 6],
+            12
+        ],
+        [
+            "111.1",
+            "111.1",
+            "Vol 11 Extras",
+            "111-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 5],
+            11
+        ],
+        [
+            "111",
+            "111",
+            "The Student Council Wants to Advance",
+            "111",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 5],
+            11
+        ],
+        [
+            "110",
+            "110",
+            "Yu Ishigami Wants to Talk",
+            "110",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 5],
+            11
+        ],
+        [
+            "109.1",
+            "109.1",
+            "K-agukoku!",
+            "109-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 5],
+            11
+        ],
+        [
+            "109",
+            "109",
+            "Maki Shijo Wants to Ask for Help",
+            "109",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 5],
+            11
+        ],
+        [
+            "108",
+            "108",
+            "Ai Hayasaka Wants to Say Something",
+            "108",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 4],
+            11
+        ],
+        [
+            "107",
+            "107",
+            "Chika Fujiwara Wants to Keep the Beat",
+            "107",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 4],
+            11
+        ],
+        [
+            "106",
+            "106",
+            "Chika Fujiwara Wants to Sleep Over",
+            "106",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 4],
+            11
+        ],
+        [
+            "105",
+            "105",
+            "Yu Ishigami Wants to Answer",
+            "105",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 4],
+            11
+        ],
+        [
+            "104",
+            "104",
+            "Kaguya Shinomiya's Impossible Challenge: \"The Swallow's Cowry\" (Part 1)",
+            "104",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 4],
+            11
+        ],
+        [
+            "103",
+            "103",
+            "Miyuki Shirogane Wants to Mediate",
+            "103",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 3],
+            11
+        ],
+        [
+            "102",
+            "102",
+            "Kaguya-sama Doesn't Realize",
+            "102",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 3],
+            11
+        ],
+        [
+            "101.5",
+            "101.5",
+            "Season 2 Blu-ray Extras",
+            "101-5",
+            "Zaibatsu",
+            [2021, 2, 20, 15, 1, 27],
+            10
+        ],
+        [
+            "101.1",
+            "101.1",
+            "Vol 10 Extras",
+            "101-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 3],
+            10
+        ],
+        [
+            "101",
+            "101",
+            "The Student Council Wants to be Photographed",
+            "101",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 3],
+            10
+        ],
+        [
+            "100",
+            "100",
+            "The Student Council Wants to be Photographed",
+            "100",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 2],
+            10
+        ],
+        [
+            "99",
+            "99",
+            "Miyuki Shirogane Wants to Be Trusted",
+            "99",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 2],
+            10
+        ],
+        [
+            "98",
+            "98",
+            "Maki Shijo Wants to Do Something, Somehow",
+            "98",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 2],
+            10
+        ],
+        [
+            "97",
+            "97",
+            "Nagisa Kashiwagi Wants to Put Him to Death",
+            "97",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 2],
+            10
+        ],
+        [
+            "96",
+            "96",
+            "Kaguya Wants to Feed Him",
+            "96",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 2],
+            10
+        ],
+        [
+            "95",
+            "95",
+            "Miko Iino Wants to Be Soothed",
+            "95",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 2],
+            10
+        ],
+        [
+            "94",
+            "94",
+            "Kaguya Wants to Interrupt",
+            "94",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 1],
+            10
+        ],
+        [
+            "93",
+            "93",
+            "Kaguya Wants to Take Him Out",
+            "93",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 1],
+            10
+        ],
+        [
+            "92",
+            "92",
+            "I Want to Make Kaguya Blush",
+            "92",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 1],
+            10
+        ],
+        [
+            "91.1",
+            "91.1",
+            "Vol 9 Extras",
+            "91-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 1],
+            9
+        ],
+        [
+            "91",
+            "91",
+            "Chika Fujiwara Wants to Make It Swell",
+            "91",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 0],
+            9
+        ],
+        [
+            "90",
+            "90",
+            "Kyoko Ootomo Doesn't Realize",
+            "90",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 0],
+            9
+        ],
+        [
+            "89",
+            "89",
+            "Miyuki Shirogane and Yu Ishigami",
+            "89",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 45, 0],
+            9
+        ],
+        [
+            "88",
+            "88",
+            "Thus, Yu Ishigami Closed His Eyes, Part 3",
+            "88",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 17, 21],
+            9
+        ],
+        [
+            "87",
+            "87",
+            "Shuchin Sports Festival",
+            "87",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 16, 40],
+            9
+        ],
+        [
+            "86",
+            "86",
+            "Mr. Shirogane Wants to Pry",
+            "86",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 16, 7],
+            9
+        ],
+        [
+            "85",
+            "85",
+            "Kobachi Osaragi Wants to Supervise",
+            "85",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 15, 21],
+            9
+        ],
+        [
+            "84",
+            "84",
+            "Miyuki Shirogane Wants To Dance",
+            "84",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 14, 39],
+            9
+        ],
+        [
+            "83.5",
+            "83.5",
+            "Kaguya Wants to be Confessed to Darkness Vol. 2",
+            "83-5",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 14, 0],
+            9
+        ],
+        [
+            "83",
+            "83",
+            "Kei Shirogane Won't Talk",
+            "83",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 12, 51],
+            9
+        ],
+        [
+            "82",
+            "82",
+            "Kaguya Won't Refuse",
+            "82",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 12, 16],
+            9
+        ],
+        [
+            "81",
+            "81",
+            "Kaguya Wants To Touch",
+            "81",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 11, 47],
+            9
+        ],
+        [
+            "80.1",
+            "80.1",
+            "Vol 8 Extras",
+            "80-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 44, 58],
+            8
+        ],
+        [
+            "80",
+            "80",
+            "Thus, Yu Ishigami Closed His Eyes, Part 2",
+            "80",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 11, 13],
+            8
+        ],
+        [
+            "79",
+            "79",
+            "Kaguya Wants To Be Examined",
+            "79",
+            "Multiple Groups",
+            [2019, 10, 3, 15, 10, 0],
+            8
+        ],
+        [
+            "78",
+            "78",
+            "Kaguya Isn't Frightened",
+            "78",
+            "/a/nonymous",
+            [2019, 6, 16, 4, 44, 57],
+            8
+        ],
+        [
+            "77",
+            "77",
+            "Chika Fujiwara Wants to Get Information",
+            "77",
+            "/a/nonymous",
+            [2019, 6, 16, 4, 44, 57],
+            8
+        ],
+        [
+            "76",
+            "76",
+            "Nagisa Kashiwagi is Annoying",
+            "76",
+            "/a/nonymous",
+            [2019, 6, 16, 4, 44, 57],
+            8
+        ],
+        [
+            "75",
+            "75",
+            "Kaguya Wants to Collect",
+            "75",
+            "/a/nonymous",
+            [2019, 6, 16, 4, 44, 57],
+            8
+        ],
+        [
+            "74",
+            "74",
+            "Kaguya \u2661 Aquarium",
+            "74",
+            "/a/nonymous",
+            [2019, 6, 16, 4, 44, 57],
+            8
+        ],
+        [
+            "73",
+            "73",
+            "Miyuki Shirogane Wants to Read",
+            "73",
+            "/a/nonymous",
+            [2019, 6, 16, 4, 44, 56],
+            8
+        ],
+        [
+            "72",
+            "72",
+            "Miko Iino Wants to Restrain",
+            "72",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 56],
+            8
+        ],
+        [
+            "71",
+            "71",
+            "Kaguya Wants to Produce",
+            "71",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 56],
+            8
+        ],
+        [
+            "70.1",
+            "70.1",
+            "Vol 7 Extras",
+            "70-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 44, 56],
+            7
+        ],
+        [
+            "70",
+            "70",
+            "Kaguya Wants to Strip",
+            "70",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 56],
+            7
+        ],
+        [
+            "69",
+            "69",
+            "Kaguya Hasn't Been Called",
+            "69",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 55],
+            7
+        ],
+        [
+            "68",
+            "68",
+            "I Want to Make Miko Iino Smile",
+            "68",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 55],
+            7
+        ],
+        [
+            "67",
+            "67",
+            "Miko Iino Can't be Laughed At",
+            "67",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 55],
+            7
+        ],
+        [
+            "66",
+            "66",
+            "Kaguya Wants to Eliminate",
+            "66",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 55],
+            7
+        ],
+        [
+            "65",
+            "65",
+            "Miko Iino Wants to Correct",
+            "65",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 55],
+            7
+        ],
+        [
+            "64.5",
+            "64.5",
+            "Kaguya Wants to be Confessed to Darkness",
+            "64-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 54],
+            7
+        ],
+        [
+            "64",
+            "64",
+            "Nagisa Kashiwagi Wants to Console",
+            "64",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 54],
+            7
+        ],
+        [
+            "63",
+            "63",
+            "Miyuki Shirogane Wants to Be Popular",
+            "63",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 54],
+            7
+        ],
+        [
+            "62",
+            "62",
+            "Miyuki Shirogane Wants to Draw",
+            "62",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 54],
+            7
+        ],
+        [
+            "61",
+            "61",
+            "Kaguya Wants a Confession",
+            "61",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 54],
+            7
+        ],
+        [
+            "60.1",
+            "60.1",
+            "Vol 6 Extras",
+            "60-1",
+            "Fans Scans | Jaimini's~Box~",
+            [2019, 6, 16, 4, 44, 53],
+            6
+        ],
+        [
+            "60",
+            "60",
+            "Kaguya Doesn't Want to Call",
+            "60",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 53],
+            6
+        ],
+        [
+            "59",
+            "59",
+            "The 67th Student Council",
+            "59",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 53],
+            6
+        ],
+        [
+            "58",
+            "58",
+            "Ai Hayasaka Wants to Seduce",
+            "58",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 53],
+            6
+        ],
+        [
+            "57",
+            "57",
+            "Kaguya Wants to Marry",
+            "57",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 52],
+            6
+        ],
+        [
+            "56",
+            "56",
+            "Miyuki Shirogane Wants to Gaze",
+            "56",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 52],
+            6
+        ],
+        [
+            "55",
+            "55",
+            "Thus, Yu Ishigami Closed His Eyes, Part 1",
+            "55",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 52],
+            6
+        ],
+        [
+            "54",
+            "54",
+            "Chika Fujiwara Wants to Confirm",
+            "54",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 52],
+            6
+        ],
+        [
+            "53",
+            "53",
+            "Kaguya Wants to Give",
+            "53",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 52],
+            6
+        ],
+        [
+            "52",
+            "52",
+            "Kaguya Wants to Ask",
+            "52",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 52],
+            6
+        ],
+        [
+            "51",
+            "51",
+            "Kaguya Wants to Celebrate",
+            "51",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 51],
+            6
+        ],
+        [
+            "50.5",
+            "50.5",
+            "Volume 5 Extras",
+            "50-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 51],
+            5
+        ],
+        [
+            "50",
+            "50",
+            "Nagisa Kashiwagi Can't Watch",
+            "50",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 51],
+            5
+        ],
+        [
+            "49",
+            "49",
+            "Miyuki Shirogane Wants to Prepare",
+            "49",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 51],
+            5
+        ],
+        [
+            "48",
+            "48",
+            "The Student Council Isn't Alpha",
+            "48",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 50],
+            5
+        ],
+        [
+            "47",
+            "47",
+            "Kaguya Wants to Choose",
+            "47",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 50],
+            5
+        ],
+        [
+            "46.5",
+            "46.5",
+            "Shuchi'in Student Council Shuffle!",
+            "46-5",
+            "NotJag",
+            [2019, 11, 4, 18, 14, 42],
+            5
+        ],
+        [
+            "46",
+            "46",
+            "Kaguya Doesn't Want to Avoid",
+            "46",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 50],
+            5
+        ],
+        [
+            "45.5",
+            "45.5",
+            "I Can't Hear the Fireworks (Extra)",
+            "45-5",
+            "Multiple Groups",
+            [2019, 8, 10, 0, 37, 34],
+            5
+        ],
+        [
+            "45",
+            "45",
+            "I Can't Hear the Fireworks, Part 2",
+            "45",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 50],
+            5
+        ],
+        [
+            "44",
+            "44",
+            "I Can't Hear the Fireworks, Part 1",
+            "44",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 49],
+            5
+        ],
+        [
+            "43",
+            "43",
+            "Chika Fujiwara Really Wants to Eat",
+            "43",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 48],
+            5
+        ],
+        [
+            "42",
+            "42",
+            "Ai Hayasaka Wants to Soak",
+            "42",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 48],
+            5
+        ],
+        [
+            "41",
+            "41",
+            "Miyuki Shirogane Wants to Meet",
+            "41",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 48],
+            5
+        ],
+        [
+            "40.5",
+            "40.5",
+            "Volume 4 Extras",
+            "40-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 47],
+            4
+        ],
+        [
+            "40",
+            "40",
+            "Miyuki Shirogane Wants to Go on a Trip",
+            "40",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 47],
+            4
+        ],
+        [
+            "39",
+            "39",
+            "Kaguya Wants to be Called",
+            "39",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 47],
+            4
+        ],
+        [
+            "38",
+            "38",
+            "Kaguya Wants to Forgive",
+            "38",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 46],
+            4
+        ],
+        [
+            "37",
+            "37",
+            "Kaguya Won't Relent",
+            "37",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 46],
+            4
+        ],
+        [
+            "36",
+            "36",
+            "Miyuki Shirogane Wants to Sing",
+            "36",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 45],
+            4
+        ],
+        [
+            "35",
+            "35",
+            "Regarding Kaguya Shinomiya, Part 1",
+            "35",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 45],
+            4
+        ],
+        [
+            "34",
+            "34",
+            "Chika Fujiwara Wants to Visit",
+            "34",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 45],
+            4
+        ],
+        [
+            "33",
+            "33",
+            "Kaguya Wants to Offer",
+            "33",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 44],
+            4
+        ],
+        [
+            "32",
+            "32",
+            "Kaguya Wants to be Hated",
+            "32",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 44],
+            4
+        ],
+        [
+            "31",
+            "31",
+            "Miyuki Shirogane Can't Lose",
+            "31",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 43],
+            4
+        ],
+        [
+            "30.5",
+            "30.5",
+            "Volume 3 Extras",
+            "30-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 43],
+            3
+        ],
+        [
+            "30",
+            "30",
+            "Ai Hayasaka Wants to Defend",
+            "30",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 43],
+            3
+        ],
+        [
+            "29",
+            "29",
+            "Kaguya Wants to be Joined",
+            "29",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 42],
+            3
+        ],
+        [
+            "28",
+            "28",
+            "Chika Fujiwara Wants to Test",
+            "28",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 42],
+            3
+        ],
+        [
+            "27.5",
+            "27.5",
+            "Extra Chapter",
+            "27-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 41],
+            3
+        ],
+        [
+            "27",
+            "27",
+            "Kaguya Wants to Endure",
+            "27",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 41],
+            3
+        ],
+        [
+            "26",
+            "26",
+            "Miyuki Shirogane Wants to Work",
+            "26",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 41],
+            3
+        ],
+        [
+            "25",
+            "25",
+            "Kaguya Wants to be Noticed",
+            "25",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 40],
+            3
+        ],
+        [
+            "24",
+            "24",
+            "Yu Ishigami Wants to Survive",
+            "24",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 40],
+            3
+        ],
+        [
+            "23",
+            "23",
+            "Miyuki Shirogane Wants to Show Off",
+            "23",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 39],
+            3
+        ],
+        [
+            "22",
+            "22",
+            "Chika Fujiwara Wants to be Eaten",
+            "22",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 39],
+            3
+        ],
+        [
+            "21",
+            "21",
+            "Kaguya Wants to Have Held",
+            "21",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 39],
+            3
+        ],
+        [
+            "20.5",
+            "20.5",
+            "Volume 2 Extras",
+            "20-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 38],
+            2
+        ],
+        [
+            "20",
+            "20",
+            "Miyuki Shirogane Wants to Speak",
+            "20",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 38],
+            2
+        ],
+        [
+            "19",
+            "19",
+            "Kaguya Wants to be Sent",
+            "19",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 38],
+            2
+        ],
+        [
+            "18",
+            "18",
+            "The Student Council Wants to Talk",
+            "18",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 37],
+            2
+        ],
+        [
+            "17",
+            "17",
+            "Kaguya Wants to Adore",
+            "17",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 37],
+            2
+        ],
+        [
+            "16",
+            "16",
+            "Kaguya Wants to Do Well",
+            "16",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 36],
+            2
+        ],
+        [
+            "15",
+            "15",
+            "Miyuki Shirogane Wants to Flee",
+            "15",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 36],
+            2
+        ],
+        [
+            "14",
+            "14",
+            "Miyuki Shirogane Hasn't Done It",
+            "14",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 35],
+            2
+        ],
+        [
+            "13",
+            "13",
+            "Kaguya Wants to be Indirect",
+            "13",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 34],
+            2
+        ],
+        [
+            "12",
+            "12",
+            "Kaguya Wants to be Stopped",
+            "12",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 34],
+            2
+        ],
+        [
+            "11",
+            "11",
+            "Kaguya Wants to Exchange",
+            "11",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 33],
+            2
+        ],
+        [
+            "10.5",
+            "10.5",
+            "Volume 1 Extras",
+            "10-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 32],
+            1
+        ],
+        [
+            "10",
+            "10",
+            "The Student Council Wants to Play a Prank",
+            "10",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 32],
+            1
+        ],
+        [
+            "9",
+            "9",
+            "Kaguya Wants to Walk",
+            "9",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 31],
+            1
+        ],
+        [
+            "8",
+            "8",
+            "Kaguya Wants to be Answered",
+            "8",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 31],
+            1
+        ],
+        [
+            "7",
+            "7",
+            "Fujiwara Wants to Go On a Trip",
+            "7",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 30],
+            1
+        ],
+        [
+            "6",
+            "6",
+            "Miyuki Shirogane Wants to Hide",
+            "6",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 29],
+            1
+        ],
+        [
+            "5.5",
+            "5.5",
+            "Extra Chapter",
+            "5-5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 29],
+            1
+        ],
+        [
+            "5",
+            "5",
+            "Kaguya Wants to Eat",
+            "5",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 29],
+            1
+        ],
+        [
+            "4",
+            "4",
+            "Miyuki Shirogane Wants to Answer",
+            "4",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 28],
+            1
+        ],
+        [
+            "3",
+            "3",
+            "Kaguya Doesn't Know Much",
+            "3",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 27],
+            1
+        ],
+        [
+            "2",
+            "2",
+            "I Want to Play Old Maid",
+            "2",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 27],
+            1
+        ],
+        [
+            "1",
+            "1",
+            "I Want to be Invited to a Movie",
+            "1",
+            "Psylocke Scans",
+            [2019, 6, 16, 4, 44, 26],
+            1
+        ]
+    ],
+    "volume_list": [
+        [
+            25,
+            [
+                ["263", "263", "Zaibatsu", [2022, 4, 19, 10, 36, 18]],
+                ["262", "262", "Zaibatsu", [2022, 4, 13, 14, 24, 1]],
+                ["261", "261", "Zaibatsu", [2022, 3, 28, 11, 38, 41]],
+                ["260", "260", "Zaibatsu", [2022, 3, 22, 8, 54, 11]],
+                ["259", "259", "Zaibatsu", [2022, 3, 8, 3, 40, 31]],
+                ["258", "258", "Zaibatsu", [2022, 3, 1, 5, 30, 39]],
+                ["257", "257", "Zaibatsu", [2022, 2, 23, 20, 36, 58]],
+                ["256", "256", "Zaibatsu", [2022, 2, 18, 6, 11, 57]],
+                ["255", "255", "Zaibatsu", [2022, 2, 3, 14, 55, 56]],
+                ["254", "254", "Zaibatsu", [2022, 1, 25, 16, 1, 31]],
+                ["253", "253", "Zaibatsu", [2022, 1, 10, 13, 25, 33]],
+                ["252", "252", "Zaibatsu", [2022, 1, 3, 13, 45, 54]],
+                ["251", "251", "Zaibatsu", [2022, 0, 27, 9, 56, 37]],
+                ["250", "250", "Zaibatsu", [2022, 0, 19, 19, 15, 50]],
+                ["249", "249", "Zaibatsu", [2022, 0, 7, 6, 16, 56]],
+                ["248", "248", "Zaibatsu", [2021, 11, 22, 19, 35, 3]],
+                ["247", "247", "Zaibatsu", [2021, 11, 16, 5, 21, 42]],
+                ["246", "246", "Zaibatsu", [2021, 11, 2, 13, 21, 33]],
+                ["245", "245", "Zaibatsu", [2021, 10, 27, 4, 3, 13]],
+                ["244", "244", "Zaibatsu", [2021, 10, 12, 14, 10, 24]],
+                ["243", "243", "Zaibatsu", [2021, 10, 4, 19, 26, 17]],
+                ["242", "242", "Zaibatsu", [2021, 9, 28, 10, 38, 45]]
+            ]
+        ],
+        [
+            24,
+            [
+                ["241.1", "241-1", "Zaibatsu", [2021, 11, 31, 16, 0, 47]],
+                ["241", "241", "Zaibatsu", [2021, 9, 21, 16, 16, 2]],
+                ["240", "240", "Zaibatsu", [2021, 9, 7, 9, 6, 57]],
+                ["239", "239", "Zaibatsu", [2021, 9, 1, 18, 49, 51]],
+                ["238", "238", "Zaibatsu", [2021, 8, 22, 10, 0, 53]],
+                ["237", "237", "Zaibatsu", [2021, 8, 16, 14, 59, 11]],
+                ["236", "236", "Zaibatsu", [2021, 8, 2, 10, 5, 59]],
+                ["235", "235", "Zaibatsu", [2021, 7, 26, 12, 9, 4]],
+                ["234", "234", "Zaibatsu", [2021, 7, 19, 8, 24, 44]],
+                ["233", "233", "Zaibatsu", [2021, 7, 5, 5, 30, 4]],
+                ["232", "232", "Zaibatsu", [2021, 6, 29, 4, 29, 24]]
+            ]
+        ],
+        [
+            23,
+            [
+                ["231.1", "231-1", "Zaibatsu", [2021, 8, 5, 18, 10, 57]],
+                ["231", "231", "Zaibatsu", [2021, 6, 14, 19, 46, 1]],
+                ["230", "230", "Zaibatsu", [2021, 6, 7, 21, 18, 49]],
+                ["229", "229", "Zaibatsu", [2021, 6, 1, 7, 9, 10]],
+                ["228", "228", "Zaibatsu", [2021, 4, 26, 19, 33, 55]],
+                ["227", "227", "Zaibatsu", [2021, 4, 20, 0, 48, 32]],
+                ["226", "226", "Zaibatsu", [2021, 4, 12, 22, 24, 25]],
+                ["225", "225", "Zaibatsu", [2021, 3, 22, 9, 10, 59]],
+                ["224", "224", "Zaibatsu", [2021, 3, 15, 6, 59, 22]],
+                ["223", "223", "Zaibatsu", [2021, 3, 9, 3, 12, 47]],
+                ["222", "222", "Zaibatsu", [2021, 3, 1, 13, 55, 59]]
+            ]
+        ],
+        [
+            22,
+            [
+                ["221.1", "221-1", "Zaibatsu", [2021, 5, 11, 13, 30, 7]],
+                ["221", "221", "Zaibatsu", [2021, 2, 25, 5, 39, 55]],
+                ["220", "220", "Zaibatsu", [2021, 2, 10, 17, 13, 55]],
+                ["219", "219", "Zaibatsu", [2021, 2, 4, 6, 14, 3]],
+                ["218", "218", "Zaibatsu", [2021, 1, 25, 4, 30, 4]],
+                ["217", "217", "Zaibatsu", [2021, 1, 18, 6, 0, 4]],
+                ["216", "216", "Zaibatsu", [2021, 1, 3, 20, 22, 4]],
+                ["215", "215", "Zaibatsu", [2021, 0, 28, 6, 48, 3]],
+                ["214", "214", "Zaibatsu", [2021, 0, 21, 7, 5, 33]],
+                ["213", "213", "Zaibatsu", [2021, 0, 6, 17, 52, 14]],
+                ["212", "212", "Zaibatsu", [2020, 11, 24, 12, 40, 33]]
+            ]
+        ],
+        [
+            21,
+            [
+                ["211.1", "211-1", "Zaibatsu", [2021, 2, 19, 13, 22, 3]],
+                ["211", "211", "Zaibatsu", [2020, 11, 10, 8, 20, 4]],
+                ["210", "210", "Zaibatsu", [2020, 11, 3, 11, 2, 4]],
+                ["209", "209", "Zaibatsu", [2020, 10, 26, 7, 46, 5]],
+                ["208", "208", "Zaibatsu", [2020, 10, 19, 7, 5, 39]],
+                ["207", "207", "Zaibatsu", [2020, 10, 5, 12, 47, 8]],
+                ["206", "206", "Zaibatsu", [2020, 9, 28, 19, 30, 42]],
+                ["205", "205", "Zaibatsu", [2020, 9, 21, 16, 16, 4]],
+                ["204", "204", "Zaibatsu", [2020, 9, 14, 17, 40, 34]],
+                ["203", "203", "Zaibatsu", [2020, 9, 7, 16, 44, 7]],
+                ["202", "202", "Zaibatsu", [2020, 8, 30, 17, 12, 4]]
+            ]
+        ],
+        [
+            20,
+            [
+                ["201.1", "201-1", "Zaibatsu", [2020, 11, 7, 5, 30, 5]],
+                ["201", "201", "Zaibatsu", [2020, 8, 23, 16, 10, 4]],
+                ["200", "200", "Multiple Groups", [2020, 8, 10, 22, 8, 28]],
+                [
+                    "199",
+                    "199",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 7, 30, 19, 0, 3]
+                ],
+                [
+                    "198",
+                    "198",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 7, 21, 3, 28, 45]
+                ],
+                [
+                    "197",
+                    "197",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 7, 6, 15, 17, 2]
+                ],
+                [
+                    "196",
+                    "196",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 7, 3, 0, 9, 56]
+                ],
+                [
+                    "195",
+                    "195",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 6, 16, 2, 37, 4]
+                ],
+                [
+                    "194",
+                    "194",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 6, 2, 1, 16, 4]
+                ],
+                [
+                    "193",
+                    "193",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 5, 25, 3, 2, 3]
+                ],
+                [
+                    "192",
+                    "192",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 5, 18, 0, 55, 3]
+                ]
+            ]
+        ],
+        [
+            19,
+            [
+                ["191.1", "191-1", "NotJag", [2020, 6, 20, 17, 32, 31]],
+                [
+                    "191",
+                    "191",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 5, 4, 1, 19, 8]
+                ],
+                [
+                    "190",
+                    "190",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 4, 28, 2, 5, 18]
+                ],
+                [
+                    "189",
+                    "189",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 4, 21, 1, 53, 59]
+                ],
+                ["188", "188", "Multiple Groups", [2020, 4, 22, 14, 46, 17]],
+                [
+                    "187",
+                    "187",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 3, 30, 2, 26, 23]
+                ],
+                [
+                    "186",
+                    "186",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 3, 23, 1, 58, 3]
+                ],
+                [
+                    "185",
+                    "185",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 3, 16, 2, 40, 4]
+                ],
+                [
+                    "184",
+                    "184",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 3, 9, 1, 20, 4]
+                ],
+                [
+                    "183",
+                    "183",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 2, 26, 4, 9, 3]
+                ],
+                [
+                    "182",
+                    "182",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 2, 18, 22, 45, 58]
+                ]
+            ]
+        ],
+        [
+            18,
+            [
+                ["181.1", "181-1", "/a/nonymous", [2020, 6, 2, 17, 25, 32]],
+                [
+                    "181",
+                    "181",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 2, 12, 4, 0, 8]
+                ],
+                [
+                    "180",
+                    "180",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 2, 5, 8, 4, 41]
+                ],
+                [
+                    "179",
+                    "179",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 1, 24, 18, 1, 2]
+                ],
+                ["178", "178", "Multiple Groups", [2020, 1, 21, 22, 50, 4]],
+                [
+                    "177",
+                    "177",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 1, 6, 9, 11, 1]
+                ],
+                [
+                    "176",
+                    "176",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 0, 30, 2, 47, 14]
+                ],
+                [
+                    "175",
+                    "175",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 0, 23, 7, 21, 48]
+                ],
+                [
+                    "174",
+                    "174",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 0, 9, 4, 39, 54]
+                ],
+                ["173", "173", "Multiple Groups", [2019, 11, 27, 3, 45, 16]],
+                [
+                    "172.1",
+                    "172-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 11, 26, 22, 18, 3]
+                ],
+                [
+                    "172",
+                    "172",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 11, 13, 2, 7, 4]
+                ]
+            ]
+        ],
+        [
+            17,
+            [
+                [
+                    "171.1",
+                    "171-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2020, 2, 24, 17, 16, 4]
+                ],
+                [
+                    "171",
+                    "171",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 11, 5, 3, 45, 49]
+                ],
+                [
+                    "170",
+                    "170",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 10, 27, 23, 33, 37]
+                ],
+                ["169", "169", "Multiple Groups", [2019, 10, 23, 0, 52, 5]],
+                [
+                    "168",
+                    "168",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 10, 7, 2, 46, 21]
+                ],
+                [
+                    "167",
+                    "167",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 9, 31, 18, 33, 3]
+                ],
+                ["166", "166", "Multiple Groups", [2019, 9, 26, 14, 37, 36]],
+                ["165", "165", "Multiple Groups", [2019, 9, 20, 22, 29, 19]],
+                ["164", "164", "Multiple Groups", [2019, 9, 13, 23, 39, 54]],
+                ["163", "163", "Multiple Groups", [2019, 8, 27, 0, 20, 48]],
+                ["162", "162", "Multiple Groups", [2019, 8, 18, 22, 34, 1]]
+            ]
+        ],
+        [
+            16,
+            [
+                [
+                    "161.1",
+                    "161-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 11, 2, 0, 3, 3]
+                ],
+                ["161", "161", "Multiple Groups", [2019, 8, 11, 22, 16, 42]],
+                [
+                    "160",
+                    "160",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 8, 6, 4, 5, 49]
+                ],
+                [
+                    "159",
+                    "159",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 7, 22, 6, 17, 44]
+                ],
+                [
+                    "158",
+                    "158",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 7, 7, 19, 30, 2]
+                ],
+                [
+                    "157",
+                    "157",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 7, 1, 7, 45, 29]
+                ],
+                [
+                    "156",
+                    "156",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 25, 20, 40, 4]
+                ],
+                [
+                    "155",
+                    "155",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 18, 2, 12, 10]
+                ],
+                [
+                    "154",
+                    "154",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 16]
+                ],
+                [
+                    "153",
+                    "153",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 15]
+                ],
+                [
+                    "152",
+                    "152",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 15]
+                ]
+            ]
+        ],
+        [
+            15,
+            [
+                [
+                    "151.1",
+                    "151-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 7, 12, 8, 8, 4]
+                ],
+                [
+                    "151",
+                    "151",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 15]
+                ],
+                [
+                    "150",
+                    "150",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 15]
+                ],
+                [
+                    "149",
+                    "149",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 15]
+                ],
+                [
+                    "148",
+                    "148",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 14]
+                ],
+                [
+                    "147",
+                    "147",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 14]
+                ],
+                [
+                    "146",
+                    "146",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 14]
+                ],
+                [
+                    "145",
+                    "145",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 13]
+                ],
+                [
+                    "144",
+                    "144",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 13]
+                ],
+                [
+                    "143",
+                    "143",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 13]
+                ],
+                [
+                    "142",
+                    "142",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 13]
+                ]
+            ]
+        ],
+        [
+            14,
+            [
+                [
+                    "141.1",
+                    "141-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 12]
+                ],
+                [
+                    "141",
+                    "141",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 12]
+                ],
+                [
+                    "140",
+                    "140",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 12]
+                ],
+                [
+                    "139",
+                    "139",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 12]
+                ],
+                [
+                    "138",
+                    "138",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 12]
+                ],
+                [
+                    "137",
+                    "137",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 11]
+                ],
+                [
+                    "136",
+                    "136",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 11]
+                ],
+                [
+                    "135",
+                    "135",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 11]
+                ],
+                [
+                    "134",
+                    "134",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 11]
+                ],
+                [
+                    "133",
+                    "133",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 11]
+                ],
+                [
+                    "132",
+                    "132",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 11]
+                ]
+            ]
+        ],
+        [
+            13,
+            [
+                [
+                    "131.1",
+                    "131-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 10]
+                ],
+                [
+                    "131",
+                    "131",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 10]
+                ],
+                [
+                    "130",
+                    "130",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 10]
+                ],
+                [
+                    "129",
+                    "129",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 10]
+                ],
+                [
+                    "128",
+                    "128",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 10]
+                ],
+                [
+                    "127",
+                    "127",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 9]
+                ],
+                [
+                    "126",
+                    "126",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 9]
+                ],
+                [
+                    "125",
+                    "125",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 9]
+                ],
+                [
+                    "124",
+                    "124",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 9]
+                ],
+                [
+                    "123",
+                    "123",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 9]
+                ],
+                [
+                    "122",
+                    "122",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 8]
+                ]
+            ]
+        ],
+        [
+            12,
+            [
+                [
+                    "121.1",
+                    "121-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 8]
+                ],
+                [
+                    "121",
+                    "121",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 8]
+                ],
+                [
+                    "120",
+                    "120",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 7]
+                ],
+                [
+                    "119",
+                    "119",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 7]
+                ],
+                [
+                    "118",
+                    "118",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 7]
+                ],
+                [
+                    "117",
+                    "117",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 7]
+                ],
+                [
+                    "116",
+                    "116",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 7]
+                ],
+                [
+                    "115",
+                    "115",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 6]
+                ],
+                [
+                    "114",
+                    "114",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 6]
+                ],
+                [
+                    "113",
+                    "113",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 6]
+                ],
+                [
+                    "112",
+                    "112",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 6]
+                ]
+            ]
+        ],
+        [
+            11,
+            [
+                [
+                    "111.1",
+                    "111-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 5]
+                ],
+                [
+                    "111",
+                    "111",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 5]
+                ],
+                [
+                    "110",
+                    "110",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 5]
+                ],
+                [
+                    "109.1",
+                    "109-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 5]
+                ],
+                [
+                    "109",
+                    "109",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 5]
+                ],
+                [
+                    "108",
+                    "108",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 4]
+                ],
+                [
+                    "107",
+                    "107",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 4]
+                ],
+                [
+                    "106",
+                    "106",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 4]
+                ],
+                [
+                    "105",
+                    "105",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 4]
+                ],
+                [
+                    "104",
+                    "104",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 4]
+                ],
+                [
+                    "103",
+                    "103",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 3]
+                ],
+                [
+                    "102",
+                    "102",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 3]
+                ]
+            ]
+        ],
+        [
+            10,
+            [
+                ["101.5", "101-5", "Zaibatsu", [2021, 2, 20, 15, 1, 27]],
+                [
+                    "101.1",
+                    "101-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 3]
+                ],
+                [
+                    "101",
+                    "101",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 3]
+                ],
+                [
+                    "100",
+                    "100",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 2]
+                ],
+                [
+                    "99",
+                    "99",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 2]
+                ],
+                [
+                    "98",
+                    "98",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 2]
+                ],
+                [
+                    "97",
+                    "97",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 2]
+                ],
+                [
+                    "96",
+                    "96",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 2]
+                ],
+                [
+                    "95",
+                    "95",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 2]
+                ],
+                [
+                    "94",
+                    "94",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 1]
+                ],
+                [
+                    "93",
+                    "93",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 1]
+                ],
+                [
+                    "92",
+                    "92",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 1]
+                ]
+            ]
+        ],
+        [
+            9,
+            [
+                [
+                    "91.1",
+                    "91-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 1]
+                ],
+                [
+                    "91",
+                    "91",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 0]
+                ],
+                [
+                    "90",
+                    "90",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 0]
+                ],
+                [
+                    "89",
+                    "89",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 45, 0]
+                ],
+                ["88", "88", "Multiple Groups", [2019, 10, 3, 15, 17, 21]],
+                ["87", "87", "Multiple Groups", [2019, 10, 3, 15, 16, 40]],
+                ["86", "86", "Multiple Groups", [2019, 10, 3, 15, 16, 7]],
+                ["85", "85", "Multiple Groups", [2019, 10, 3, 15, 15, 21]],
+                ["84", "84", "Multiple Groups", [2019, 10, 3, 15, 14, 39]],
+                ["83.5", "83-5", "Multiple Groups", [2019, 10, 3, 15, 14, 0]],
+                ["83", "83", "Multiple Groups", [2019, 10, 3, 15, 12, 51]],
+                ["82", "82", "Multiple Groups", [2019, 10, 3, 15, 12, 16]],
+                ["81", "81", "Multiple Groups", [2019, 10, 3, 15, 11, 47]]
+            ]
+        ],
+        [
+            8,
+            [
+                [
+                    "80.1",
+                    "80-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 44, 58]
+                ],
+                ["80", "80", "Multiple Groups", [2019, 10, 3, 15, 11, 13]],
+                ["79", "79", "Multiple Groups", [2019, 10, 3, 15, 10, 0]],
+                ["78", "78", "/a/nonymous", [2019, 6, 16, 4, 44, 57]],
+                ["77", "77", "/a/nonymous", [2019, 6, 16, 4, 44, 57]],
+                ["76", "76", "/a/nonymous", [2019, 6, 16, 4, 44, 57]],
+                ["75", "75", "/a/nonymous", [2019, 6, 16, 4, 44, 57]],
+                ["74", "74", "/a/nonymous", [2019, 6, 16, 4, 44, 57]],
+                ["73", "73", "/a/nonymous", [2019, 6, 16, 4, 44, 56]],
+                ["72", "72", "Psylocke Scans", [2019, 6, 16, 4, 44, 56]],
+                ["71", "71", "Psylocke Scans", [2019, 6, 16, 4, 44, 56]]
+            ]
+        ],
+        [
+            7,
+            [
+                [
+                    "70.1",
+                    "70-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 44, 56]
+                ],
+                ["70", "70", "Psylocke Scans", [2019, 6, 16, 4, 44, 56]],
+                ["69", "69", "Psylocke Scans", [2019, 6, 16, 4, 44, 55]],
+                ["68", "68", "Psylocke Scans", [2019, 6, 16, 4, 44, 55]],
+                ["67", "67", "Psylocke Scans", [2019, 6, 16, 4, 44, 55]],
+                ["66", "66", "Psylocke Scans", [2019, 6, 16, 4, 44, 55]],
+                ["65", "65", "Psylocke Scans", [2019, 6, 16, 4, 44, 55]],
+                ["64.5", "64-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 54]],
+                ["64", "64", "Psylocke Scans", [2019, 6, 16, 4, 44, 54]],
+                ["63", "63", "Psylocke Scans", [2019, 6, 16, 4, 44, 54]],
+                ["62", "62", "Psylocke Scans", [2019, 6, 16, 4, 44, 54]],
+                ["61", "61", "Psylocke Scans", [2019, 6, 16, 4, 44, 54]]
+            ]
+        ],
+        [
+            6,
+            [
+                [
+                    "60.1",
+                    "60-1",
+                    "Fans Scans | Jaimini's~Box~",
+                    [2019, 6, 16, 4, 44, 53]
+                ],
+                ["60", "60", "Psylocke Scans", [2019, 6, 16, 4, 44, 53]],
+                ["59", "59", "Psylocke Scans", [2019, 6, 16, 4, 44, 53]],
+                ["58", "58", "Psylocke Scans", [2019, 6, 16, 4, 44, 53]],
+                ["57", "57", "Psylocke Scans", [2019, 6, 16, 4, 44, 52]],
+                ["56", "56", "Psylocke Scans", [2019, 6, 16, 4, 44, 52]],
+                ["55", "55", "Psylocke Scans", [2019, 6, 16, 4, 44, 52]],
+                ["54", "54", "Psylocke Scans", [2019, 6, 16, 4, 44, 52]],
+                ["53", "53", "Psylocke Scans", [2019, 6, 16, 4, 44, 52]],
+                ["52", "52", "Psylocke Scans", [2019, 6, 16, 4, 44, 52]],
+                ["51", "51", "Psylocke Scans", [2019, 6, 16, 4, 44, 51]]
+            ]
+        ],
+        [
+            5,
+            [
+                ["50.5", "50-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 51]],
+                ["50", "50", "Psylocke Scans", [2019, 6, 16, 4, 44, 51]],
+                ["49", "49", "Psylocke Scans", [2019, 6, 16, 4, 44, 51]],
+                ["48", "48", "Psylocke Scans", [2019, 6, 16, 4, 44, 50]],
+                ["47", "47", "Psylocke Scans", [2019, 6, 16, 4, 44, 50]],
+                ["46.5", "46-5", "NotJag", [2019, 11, 4, 18, 14, 42]],
+                ["46", "46", "Psylocke Scans", [2019, 6, 16, 4, 44, 50]],
+                ["45.5", "45-5", "Multiple Groups", [2019, 8, 10, 0, 37, 34]],
+                ["45", "45", "Psylocke Scans", [2019, 6, 16, 4, 44, 50]],
+                ["44", "44", "Psylocke Scans", [2019, 6, 16, 4, 44, 49]],
+                ["43", "43", "Psylocke Scans", [2019, 6, 16, 4, 44, 48]],
+                ["42", "42", "Psylocke Scans", [2019, 6, 16, 4, 44, 48]],
+                ["41", "41", "Psylocke Scans", [2019, 6, 16, 4, 44, 48]]
+            ]
+        ],
+        [
+            4,
+            [
+                ["40.5", "40-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 47]],
+                ["40", "40", "Psylocke Scans", [2019, 6, 16, 4, 44, 47]],
+                ["39", "39", "Psylocke Scans", [2019, 6, 16, 4, 44, 47]],
+                ["38", "38", "Psylocke Scans", [2019, 6, 16, 4, 44, 46]],
+                ["37", "37", "Psylocke Scans", [2019, 6, 16, 4, 44, 46]],
+                ["36", "36", "Psylocke Scans", [2019, 6, 16, 4, 44, 45]],
+                ["35", "35", "Psylocke Scans", [2019, 6, 16, 4, 44, 45]],
+                ["34", "34", "Psylocke Scans", [2019, 6, 16, 4, 44, 45]],
+                ["33", "33", "Psylocke Scans", [2019, 6, 16, 4, 44, 44]],
+                ["32", "32", "Psylocke Scans", [2019, 6, 16, 4, 44, 44]],
+                ["31", "31", "Psylocke Scans", [2019, 6, 16, 4, 44, 43]]
+            ]
+        ],
+        [
+            3,
+            [
+                ["30.5", "30-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 43]],
+                ["30", "30", "Psylocke Scans", [2019, 6, 16, 4, 44, 43]],
+                ["29", "29", "Psylocke Scans", [2019, 6, 16, 4, 44, 42]],
+                ["28", "28", "Psylocke Scans", [2019, 6, 16, 4, 44, 42]],
+                ["27.5", "27-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 41]],
+                ["27", "27", "Psylocke Scans", [2019, 6, 16, 4, 44, 41]],
+                ["26", "26", "Psylocke Scans", [2019, 6, 16, 4, 44, 41]],
+                ["25", "25", "Psylocke Scans", [2019, 6, 16, 4, 44, 40]],
+                ["24", "24", "Psylocke Scans", [2019, 6, 16, 4, 44, 40]],
+                ["23", "23", "Psylocke Scans", [2019, 6, 16, 4, 44, 39]],
+                ["22", "22", "Psylocke Scans", [2019, 6, 16, 4, 44, 39]],
+                ["21", "21", "Psylocke Scans", [2019, 6, 16, 4, 44, 39]]
+            ]
+        ],
+        [
+            2,
+            [
+                ["20.5", "20-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 38]],
+                ["20", "20", "Psylocke Scans", [2019, 6, 16, 4, 44, 38]],
+                ["19", "19", "Psylocke Scans", [2019, 6, 16, 4, 44, 38]],
+                ["18", "18", "Psylocke Scans", [2019, 6, 16, 4, 44, 37]],
+                ["17", "17", "Psylocke Scans", [2019, 6, 16, 4, 44, 37]],
+                ["16", "16", "Psylocke Scans", [2019, 6, 16, 4, 44, 36]],
+                ["15", "15", "Psylocke Scans", [2019, 6, 16, 4, 44, 36]],
+                ["14", "14", "Psylocke Scans", [2019, 6, 16, 4, 44, 35]],
+                ["13", "13", "Psylocke Scans", [2019, 6, 16, 4, 44, 34]],
+                ["12", "12", "Psylocke Scans", [2019, 6, 16, 4, 44, 34]],
+                ["11", "11", "Psylocke Scans", [2019, 6, 16, 4, 44, 33]]
+            ]
+        ],
+        [
+            1,
+            [
+                ["10.5", "10-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 32]],
+                ["10", "10", "Psylocke Scans", [2019, 6, 16, 4, 44, 32]],
+                ["9", "9", "Psylocke Scans", [2019, 6, 16, 4, 44, 31]],
+                ["8", "8", "Psylocke Scans", [2019, 6, 16, 4, 44, 31]],
+                ["7", "7", "Psylocke Scans", [2019, 6, 16, 4, 44, 30]],
+                ["6", "6", "Psylocke Scans", [2019, 6, 16, 4, 44, 29]],
+                ["5.5", "5-5", "Psylocke Scans", [2019, 6, 16, 4, 44, 29]],
+                ["5", "5", "Psylocke Scans", [2019, 6, 16, 4, 44, 29]],
+                ["4", "4", "Psylocke Scans", [2019, 6, 16, 4, 44, 28]],
+                ["3", "3", "Psylocke Scans", [2019, 6, 16, 4, 44, 27]],
+                ["2", "2", "Psylocke Scans", [2019, 6, 16, 4, 44, 27]],
+                ["1", "1", "Psylocke Scans", [2019, 6, 16, 4, 44, 26]]
+            ]
+        ]
+    ],
+    "root_domain": "manga.guya.moe",
+    "canonical_url": "https://manga.guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/",
+    "relative_url": "read/manga/Kaguya-Wants-To-Be-Confessed-To/",
+    "available_features": [
+        "detailed",
+        "compact",
+        "volumeCovers",
+        "rss",
+        "download"
+    ],
+    "reader_modifier": "read/manga",
+    "embed_image": "https://guya.cubari.moe/media/manga/Kaguya-Wants-To-Be-Confessed-To/static/jBhT5LV.png",
+    "version_query": "?v=7d13d5d\n"
+}

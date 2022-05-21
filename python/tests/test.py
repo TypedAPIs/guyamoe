@@ -5,6 +5,7 @@ from .examples.series import data as series_data
 from .examples.seriesGroups import data as seriesGroups_data
 from .examples.seriesVolumeCover import data as seriesVolumeCover_data
 from .examples.seriesVolumeCovers import data as seriesVolumeCovers_data
+from .examples.seriesPageData import data as seriesPageData_data
 from guyamoe_api_types import (
     AllGroups,
     AllSeries,
@@ -13,6 +14,7 @@ from guyamoe_api_types import (
     SeriesGroups,
     SeriesVolumeCover,
     SeriesVolumeCovers,
+    SeriesPageData,
 )
 
 allSeries: AllSeries = allSeries_data
@@ -22,3 +24,4 @@ allGroups: AllGroups = allGroups_data
 seriesVolumeCovers: SeriesVolumeCovers = seriesVolumeCovers_data
 seriesVolumeCover: SeriesVolumeCover = seriesVolumeCover_data
 searchIndex: SearchIndex = searchIndex_data
+seriesPageData: SeriesPageData = seriesPageData_data
