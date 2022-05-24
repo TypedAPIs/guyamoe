@@ -14,10 +14,17 @@ mypy = "*"
 black = "*"
 build = "*"
 twine = "*"
+flake8 = "*"
+isort = "*"
 
 [scripts]
-lint = "black ."
-lint-check = "black --check ."
+black = "black ."
+black-check = "black --check ."
+flake8 = "flake8 ."
+isort = "isort ."
+isort-check = "isort . --check"
+lint = "sh -c 'pipenv run black && pipenv run flake8 && pipenv run isort'"
+lint-check = "sh -c 'pipenv run black-check && pipenv run flake8 && pipenv run isort-check'"
 test = "mypy tests/test.py"
 
 [requires]

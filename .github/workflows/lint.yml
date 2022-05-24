@@ -20,10 +20,18 @@ jobs:
           cd python
           pip install pipenv
           pipenv install --dev
-      - name: Lint
+      - name: Run black
         run: |
           cd python
-          pipenv run lint-check
+          pipenv run black-check
+      - name: Run flake8
+        run: |
+          cd python
+          pipenv run flake8
+      - name: Run isort
+        run: |
+          cd python
+          pipenv run isort-check
   js-lint:
     runs-on: ubuntu-latest
     steps:
