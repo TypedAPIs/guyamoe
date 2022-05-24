@@ -1,6 +1,6 @@
 from typing import Dict, List
 
-from typing_extensions import TypedDict, NotRequired
+from typing_extensions import NotRequired, TypedDict
 
 
 class Chapter(TypedDict):
