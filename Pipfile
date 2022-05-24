@@ -20,7 +20,7 @@ isort = "*"
 [scripts]
 black = "black ."
 black-check = "black --check ."
-flake8 = "flake8 ."
+flake8 = "flake8 --count ."
 isort = "isort ."
 isort-check = "isort . --check"
 lint = "sh -c 'pipenv run black && pipenv run flake8 && pipenv run isort'"
