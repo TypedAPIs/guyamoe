@@ -31,9 +31,9 @@ class SeriesPageData(TypedDict):
     """An URL similar to :attr:`.cover_vol_url`, but the file is a ``.webp`` file."""
 
     metadata: List[List[Union[str, int]]]
-    """A list of lists containing the metadata for each volume in the series. Each sub-list is actually a key-value
-    pair, where the first element is the name and the second element is the value. The value can be a string or an
-    integer.
+    """A list of lists containing the metadata for each volume in the series. Each
+    sub-list is actually a key-value pair, where the first element is the name and
+    the second element is the value. The value can be a string or an integer.
 
     So far, the structure of the metadata is as follows:
 
@@ -68,16 +68,19 @@ class SeriesPageData(TypedDict):
     chapter_list: List[List[Union[str, int, List[int]]]]
     """A list of lists containing information on each chapter.
 
-    The sub-lists can be thought of as a tuple where the elements mean the following, in order:
+    The sub-lists can be thought of as a tuple where the elements mean the following,
+    in order:
 
     1. The chapter number.
     2. The chapter number (again).
     3. The chapter title.
-    4. A slugified version of the chapter number. Dots are replaced with dashes. For integer chapter numbers this
-       value should be the same as the first and second elements.
-    5. The name of the group that uploaded the chapter or ``Multiple Groups`` if the chapter is uploaded by multiple
-       groups.
-    6. The date and time the chapter was published. This is another tuple-like list that has these elements:
+    4. A slugified version of the chapter number. Dots are replaced with dashes.
+       For integer chapter numbers this value should be the same as the first and
+       second elements.
+    5. The name of the group that uploaded the chapter or ``Multiple Groups`` if the
+       chapter is uploaded by multiple groups.
+    6. The date and time the chapter was published. This is another tuple-like list
+       that has these elements:
 
        1. The year.
        2. The month, starting from 0.
@@ -92,18 +95,21 @@ class SeriesPageData(TypedDict):
     volume_list: List[List[Union[int, List[List[Union[str, List[int]]]]]]]
     """A list of lists containing information on each volume.
 
-    The sub-lists can be thought of as a tuple where the elements mean the following, in order:
+    The sub-lists can be thought of as a tuple where the elements mean the following,
+    in order:
 
     1. The volume number.
-    2. A list of lists containing chapters in the volume. Each chapter entry can be thought of as a tuple where the
-       elements mean the following, in order:
+    2. A list of lists containing chapters in the volume. Each chapter entry can be
+       thought of as a tuple where the elements mean the following, in order:
 
        1. The chapter number.
-       2. A slugified version of the chapter number. Dots are replaced with dashes. For integer chapter numbers this
-          value should be the same as the first and second elements.
-       3. The name of the group that uploaded the chapter or ``Multiple Groups`` if the chapter is uploaded by multiple
-          groups.
-       4. The date and time the chapter was published. This is another tuple-like list that has these elements:
+       2. A slugified version of the chapter number. Dots are replaced with dashes.
+          For integer chapter numbers this value should be the same as the first and
+          second elements.
+       3. The name of the group that uploaded the chapter or ``Multiple Groups`` if
+          the chapter is uploaded by multiple groups.
+       4. The date and time the chapter was published. This is another tuple-like list
+          that has these elements:
 
           1. The year.
           2. The month, starting from 0.
@@ -123,8 +129,8 @@ class SeriesPageData(TypedDict):
     """The :ref:`relative url` to the series page on the website."""
 
     available_features: List[str]
-    """A list of features that are available for the series. This list is static for all responses and currently
-    looks like:
+    """A list of features that are available for the series. This list is static for
+    all responses and currently looks like:
 
     .. code-block:: json
 
@@ -138,12 +144,14 @@ class SeriesPageData(TypedDict):
     """
 
     reader_modifier: str
-    """The part of the :attr:`.relative_url` that does not contain the slug. The modifier can be used in conjunction
-    with :attr`.slug` to construct the relative url to the series page."""
+    """The part of the :attr:`.relative_url` that does not contain the slug. The
+    modifier can be used in conjunction with :attr`.slug` to construct the relative
+    url to the series page."""
 
     embed_image: str
-    """A full URL to the image that should be shown for Facebook/Twitter/other social media embeds."""
+    """A full URL to the image that should be shown for Facebook/Twitter/other social
+    media embeds."""
 
     version_query: str
-    """A query string containing the first 7 characters of the git commit's SHA-1 ID that the server is running off
-    of."""
+    """A query string containing the first 7 characters of the git commit's SHA-1 ID
+    that the server is running off of."""
