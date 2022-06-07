@@ -1,11 +1,11 @@
 <!doctype html>
-<html class="no-js">
+<html class="no-js" lang="en">
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
-    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 <link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Search Index" href="search_index.html" /><link rel="prev" title="Get All Groups" href="get_all_groups.html" />
 
-    <meta name="generator" content="sphinx-4.5.0, furo 2022.06.04.1"/>
+    <meta name="generator" content="sphinx-5.0.1, furo 2022.06.04.1"/>
         <title>Get All Series - guyamoe 1.0 documentation</title>
       <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=40978830699223671f4072448e654b5958f38b89" />
@@ -203,7 +203,7 @@
         </div>
         <article role="main">
           <section id="get-all-series">
-<h1>Get All Series<a class="headerlink" href="#get-all-series" title="Permalink to this headline">#</a></h1>
+<h1>Get All Series<a class="headerlink" href="#get-all-series" title="Permalink to this heading">#</a></h1>
 <p>Endpoint: <code class="docutils literal notranslate"><span class="pre">/get_all_series</span></code></p>
 <span class="target" id="module-guyamoe_api_types.all_series"></span><dl class="py data">
 <dt class="sig sig-object py" id="guyamoe_api_types.all_series.AllSeries">
@@ -211,12 +211,12 @@
 <dd><p>The root JSON document for all series is a dictionary where the keys are the title
 of the series and the values are the <a class="reference internal" href="#guyamoe_api_types.all_series.SeriesSummary" title="guyamoe_api_types.all_series.SeriesSummary"><code class="xref py py-class docutils literal notranslate"><span class="pre">SeriesSummary</span></code></a> for that series.</p>
 <p>A sample JSON document can be found at <a class="reference external" href="https://guya.moe/api/get_all_series/">https://guya.moe/api/get_all_series/</a>.</p>
-<p>alias of <a class="reference external" href="https://docs.python.org/3/library/typing.html#typing.Dict" title="(in Python v3.10)"><code class="xref py py-class docutils literal notranslate"><span class="pre">Dict</span></code></a>[<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a>, <a class="reference internal" href="#guyamoe_api_types.all_series.SeriesSummary" title="guyamoe_api_types.all_series.SeriesSummary"><code class="xref py py-class docutils literal notranslate"><span class="pre">guyamoe_api_types.all_series.SeriesSummary</span></code></a>]</p>
+<p>alias of <a class="reference external" href="https://docs.python.org/3/library/typing.html#typing.Dict" title="(in Python v3.10)"><code class="xref py py-class docutils literal notranslate"><span class="pre">Dict</span></code></a>[<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a>, <a class="reference internal" href="#guyamoe_api_types.all_series.SeriesSummary" title="guyamoe_api_types.all_series.SeriesSummary"><code class="xref py py-class docutils literal notranslate"><span class="pre">SeriesSummary</span></code></a>]</p>
 </dd></dl>
 
 <dl class="py class">
 <dt class="sig sig-object py" id="guyamoe_api_types.all_series.SeriesSummary">
-<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">guyamoe_api_types.all_series.</span></span><span class="sig-name descname"><span class="pre">SeriesSummary</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">data</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#guyamoe_api_types.all_series.SeriesSummary" title="guyamoe_api_types.all_series.SeriesSummary"><span class="pre">SeriesSummary</span></a></span></span><a class="headerlink" href="#guyamoe_api_types.all_series.SeriesSummary" title="Permalink to this definition">#</a></dt>
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">guyamoe_api_types.all_series.</span></span><span class="sig-name descname"><span class="pre">SeriesSummary</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">data</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#guyamoe_api_types.all_series.SeriesSummary" title="Permalink to this definition">#</a></dt>
 <dt class="sig sig-object py">
 <em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">guyamoe_api_types.all_series.</span></span><span class="sig-name descname"><span class="pre">SeriesSummary</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">attrs</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Any</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#guyamoe_api_types.all_series.SeriesSummary" title="guyamoe_api_types.all_series.SeriesSummary"><span class="pre">SeriesSummary</span></a></span></span></dt>
 <dd><p>Bases: <a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.10)"><code class="xref py py-class docutils literal notranslate"><span class="pre">dict</span></code></a></p>
@@ -248,7 +248,7 @@ This is returned on the API endpoint for all series.</p>
 
 <dl class="py attribute">
 <dt class="sig sig-object py" id="guyamoe_api_types.all_series.SeriesSummary.groups">
-<span class="sig-name descname"><span class="pre">groups</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">Dict</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></em><a class="headerlink" href="#guyamoe_api_types.all_series.SeriesSummary.groups" title="Permalink to this definition">#</a></dt>
+<span class="sig-name descname"><span class="pre">groups</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/typing.html#typing.Dict" title="(in Python v3.10)"><span class="pre">Dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></em><a class="headerlink" href="#guyamoe_api_types.all_series.SeriesSummary.groups" title="Permalink to this definition">#</a></dt>
 <dd><p>A dictionary of group IDs and their respective names.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -328,6 +328,7 @@ the one obtained from the individual series endpoint.</p>
 </div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/scripts/furo.js"></script>
     </body>
