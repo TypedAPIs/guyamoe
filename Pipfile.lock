@@ -20,10 +20,6 @@
             "editable": true,
             "path": "./python"
         },
-        "sanitized-package": {
-            "editable": true,
-            "path": "./python"
-        },
         "typing-extensions": {
             "hashes": [
                 "sha256:25642c956049920a5aa49edcdd6ab1e06d7e5d467fc00e0506c44ac86fbfca02",
